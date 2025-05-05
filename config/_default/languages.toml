@@ -1,0 +1,69 @@
+################ English language ##################
+[en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+
+################ German language ##################
+[de]
+languageName = "Deutsch"
+languageCode = "de"
+contentDir = "content/german"
+weight = 2
+
+################ Spanish language ##################
+[es]
+languageName = "Español"
+languageCode = "es-es"
+contentDir = "content/spanish"
+weight = 3
+
+################ French language ##################
+[fr]
+languageName = "Français"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 4
+
+################ Italian language ##################
+[it]
+languageName = "Italiano"
+languageCode = "it"
+contentDir = "content/italian"
+weight = 5
+
+################ Dutch language ##################
+[nl]
+languageName = "Nederlands"
+languageCode = "nl"
+contentDir = "content/dutch"
+weight = 6
+
+################ Polish language ##################
+[pl]
+languageName = "Polski"
+languageCode = "pl"
+contentDir = "content/polish"
+weight = 7
+
+################ Romanian language ##################
+[ro]
+languageName = "Română"
+languageCode = "ro"
+contentDir = "content/romanian"
+weight = 8
+
+################ Slovak language ##################
+[sk]
+languageName = "Slovenčina"
+languageCode = "sk"
+contentDir = "content/slovak"
+weight = 9
+
+################ Swedish language ##################
+[sv]
+languageName = "Svenska"
+languageCode = "sv"
+contentDir = "content/swedish"
+weight = 10

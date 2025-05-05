@@ -1,0 +1,22 @@
+/* Add your own custom styles here */
+@font-face {
+  font-family: "Caramel Milk";
+  src:
+    url("../Caramel Milk.woff2") format("woff2"),
+    url("../Caramel Milk.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+#logo img {
+  width: 180px;
+  height: 12px;
+}
+
+@media (width >= 48rem) { 
+  #logo img {
+    width: 399px;
+    height: 27px;
+  }
+}
