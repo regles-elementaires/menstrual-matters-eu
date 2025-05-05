@@ -117,13 +117,7 @@ npm run build
 
 ### 👉 Deploy Site
 
-We have provided 5 different deploy platform configurations with this template, so you can deploy easily.
-
 - [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
-- [Github Actions](https://github.com/features/actions)
-- [Gitlab Ci](https://docs.gitlab.com/ee/ci/)
-- [AWS Amplify](https://aws.amazon.com/amplify/)
 
 And if you want to Host some other hosting platforms. then you can build your project, and you will get a `public` folder. that you can copy and paste on your hosting platform.
 
