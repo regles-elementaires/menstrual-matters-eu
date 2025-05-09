@@ -18,16 +18,6 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 defaultContentLanguage = 'en'
 # defaultContentLanguageInSubdir need to be true if you want to use the language code as a subdirectory and language specific 404 page
 defaultContentLanguageInSubdir = true
-[languages]
-    [languages.en]
-        languageName = "English"
-        weight = 1
-    [languages.fr]
-        languageName = "French"
-        weight = 2
-    [languages.es]
-        languageName = "Spanish"
-        weight = 3
 
 ########################### Services #############################
 [services]

@@ -16,8 +16,6 @@ navbar_fixed = true
 # theme-mode
 theme_switcher = false
 theme_default = "system" # available options [light/dark/system]
-# Main Sections
-mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -33,23 +31,6 @@ copyright = "Made by ... using Hugoplate"
 [preloader]
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
-
-# Navigation button
-[navigation_button]
-enable = false
-label = "get a quote"
-link = "contact"
-
-# search
-# search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
-[search]
-enable = false
-primary_color = "#121212"
-include_sections = ["blog"]
-show_image = true
-show_description = true
-show_tags = true
-show_categories = true
 
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
@@ -84,11 +65,3 @@ enable = false
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
-
-# diagrams
-[mermaid]
-js_url = 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs'
-
-######################## sidebar widgets #########################
-[widgets]
-sidebar = ["categories", "tags"]

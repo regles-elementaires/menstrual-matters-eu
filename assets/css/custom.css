@@ -14,9 +14,26 @@
   height: 12px;
 }
 
+.text-title-size {
+  font-size: 1.875rem;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 1rem;
+}
+
 @media (width >= 48rem) { 
   #logo img {
     width: 399px;
     height: 27px;
+  }
+
+  .p-banner {
+    padding: 80px 80px 0 80px;
+  }
+
+  .text-title-size {
+    font-size: 2.75rem;
   }
 }

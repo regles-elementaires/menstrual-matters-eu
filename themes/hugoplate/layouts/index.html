@@ -1,144 +1,136 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
-      <div class="container">
-        <div class="row justify-center">
-          <div class="lg:col-7 md:col-9 mb-8 text-center">
-            <h1 class="mb-4 text-h3 lg:text-h1">
-              {{ .title | markdownify }}
-            </h1>
-            <p class="mb-8">
-              {{ .content | markdownify }}
-            </p>
-            {{ with .button }}
-              {{ if .enable }}
-                <a
-                  class="btn btn-primary"
-                  href="{{ .link | absURL }}"
-                  {{ if strings.HasPrefix .link `http` }}
-                    target="_blank" rel="noopener"
-                  {{ end }}>
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
-              {{ end }}
+    <section class="container">
+      <div class="m-4 md:m-0 bg-pink rounded-4xl flex flex-row pt-8 md:pt-20 px-8 md:px-20">
+        <div class="w-full md:w-3/4 pb-8 md:pe-32 flex flex-col">
+          <h1 class="font-primary font-extrabold mb-4 text-title-size">
+            {{ .title | markdownify }}
+          </h1>
+          <p class="mb-8 text-black text-lg">
+            {{ .content | markdownify }}
+          </p>
+          {{ with .button }}
+            {{ if .enable }}
+            <div class="self-center md:self-auto">
+              <a
+                class="btn bg-red font-secondary text-white font-normal"
+                href="{{ .link | absURL }}"
+                {{ if strings.HasPrefix .link `http` }}
+                  target="_blank" rel="noopener"
+                {{ end }}>
+                {{ .label }}
+              </a>
+            </div>
             {{ end }}
-          </div>
-          <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
-          </div>
+          {{ end }}
         </div>
-      </div>
+        <div class="w-1/4 hidden md:block">
+          {{ partial "image" (dict "Src" .image "Alt" "" "Loading" "eager") }}
+        </div>
+      </div>   
     </section>
   {{ end }}
   <!-- /Banner -->
 
-  <!-- Features -->
-  {{ range $i, $e:= .Params.features }}
-    <section id="study" class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
-      <div class="container">
-        <div class="row items-center justify-between">
-          <div
-            class="mb:md-0 {{ if not (modBool $i 2) }}
-              md:order-2
-            {{ end }} md:col-5 mb-6">
-            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
-          </div>
-          <div
-            class="{{ if not (modBool $i 2) }}
-              md:order-1
-            {{ end }} md:col-7 lg:col-6">
-            <h2 class="mb-4">
-              {{ .title | markdownify }}
-            </h2>
-            <p class="mb-8 text-lg">
-              {{ .content | markdownify }}
-            </p>
-            <ul>
-              {{ range .bulletpoints }}
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  {{ . | markdownify }}
-                </li>
-              {{ end }}
-            </ul>
-            {{ with .button }}
-              {{ if .enable }}
-                <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
-              {{ end }}
-            {{ end }}
-          </div>
+  <!-- Study -->
+  {{ with .Params.campaign }}
+    <section class="container px-8 md: px-4 text-black mt-12">
+      <h2 class="text-red text-center font-primary font-extrabold">{{ .title }}</h2>
+      <div class="row items-center justify-between mt-8">
+        <div class="col-2 hidden md:block">
+          {{ partial "image" (dict "Src" "/images/pad.svg" "Alt" "" "Loading" "eager") }}
+        </div>
+        <div class="col-12 md:col-8">
+          <h3 class="font-primary font-extrabold text-3xl">{{ .intro.title }}</h3>
+          <p class="text-xl text-grey mt-2 mb-6">{{ .intro.text }}</p>
+          <p>{{ .first_part | markdownify }}</p>
+        </div>
+        <div class="col-2 hidden md:block"></div>
+      </div>
+      <div class="row items-center justify-between">
+        <div class="col-2 hidden md:block"></div>
+        <div class="col-12 md:col-8">
+          <p>{{ .second_part | markdownify }}</p>
+        </div>
+        <div class="col-2 flex justify-end hidden md:block">
+          {{ partial "image" (dict "Src" "/images/box.svg" "Alt" "" "Loading" "eager") }}
+        </div>
+      </div>
+      <div class="row items-center justify-between">
+        <div class="col-2 hidden md:block">
+          {{ partial "image" (dict "Src" "/images/tampon.svg" "Alt" "" "Loading" "eager") }}
+        </div>
+        <div class="col-12 md:col-8">
+          <p>{{ .third_part | markdownify }}</p>
+        </div>
+        <div class="col-2 hidden md:block"></div>
+      </div>
+      <div class="row items-center justify-between">
+        <div class="col-2 hidden md:block"></div>
+        <div class="col-12 md:col-8">
+          <p>{{ .fourth_part | markdownify }}</p>
+        </div>
+        <div class="col-2 flex justify-end hidden md:block">
+          {{ partial "image" (dict "Src" "/images/reusable_pad.svg" "Alt" "" "Loading" "eager") }}
+        </div>
+      </div>   
+      <div class="row items-center justify-between mt-8">
+        <div class="col-8 mx-auto">
+          {{ range .goals }}
+            <div class="flex">
+              {{ partial "image" (dict "Src" "/images/arrow.svg" "Alt" "" "Loading" "eager") }}
+              <div class="ml-6 bg-pink rounded-xl py-4 px-8 font-semibold mb-2">
+                {{ .content | markdownify }}
+              </div>
+            </div>
+          {{ end }}
         </div>
       </div>
     </section>
   {{ end }}
-  <!-- /Features -->
+  <!-- /Study -->
 
-  <!-- Testimonials -->
-  {{ with site.GetPage "sections/testimonial" }}
-    {{ if .Params.enable }}
-      <section id="about" class="section">
-        <div class="container">
-          <div class="row">
-            <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
-              <h2 class="mb-4">
-                {{ .Title | markdownify }}
-              </h2>
-              <p>
-                {{ .Params.description | markdownify }}
-              </p>
-            </div>
-            <div class="col-12">
-              <div class="swiper testimonial-slider">
-                <div class="swiper-wrapper">
-                  {{ range .Params.testimonials }}
-                    <div class="swiper-slide">
-                      <div
-                        class="bg-light dark:bg-darkmode-light rounded-lg px-7 py-10">
-                        <div class="text-text-dark dark:text-white">
-                          <svg
-                            width="33"
-                            height="20"
-                            viewBox="0 0 33 20"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                              d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
-                              fill="currentColor" />
-                          </svg>
-                        </div>
-                        <blockquote class="mt-8">
-                          {{ .content | markdownify }}
-                        </blockquote>
-                        <div class="mt-11 flex items-center">
-                          <div class="text-text-dark dark:text-white">
-                            {{ partial "image" (dict "Src" .avatar "Size" "50x50" "Class" "rounded-full" "Alt" .name) }}
-                          </div>
-                          <div class="ml-4">
-                            <h3 class="h5 font-primary font-semibold">
-                              {{ .name }}
-                            </h3>
-                            <p class="text-text-dark dark:text-white">
-                              {{ .designation | markdownify }}
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  {{ end }}
-                </div>
-                <div
-                  class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
-              </div>
-            </div>
-          </div>
+  <!-- About -->
+  {{ range $i, $e:= .Params.features }}
+    <section id="about" class="container">
+      <div class="row items-center justify-between">
+        <div
+          class="mb:md-0 {{ if not (modBool $i 2) }}
+            md:order-2
+          {{ end }} md:col-5 mb-6">
+          {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
         </div>
-      </section>
-    {{ end }}
+        <div
+          class="{{ if not (modBool $i 2) }}
+            md:order-1
+          {{ end }} md:col-7 lg:col-6">
+          <h2 class="mb-4">
+            {{ .title | markdownify }}
+          </h2>
+          <p class="mb-8 text-lg">
+            {{ .content | markdownify }}
+          </p>
+          <ul>
+            {{ range .bulletpoints }}
+              <li class="relative mb-4 pl-6">
+                <i class="fa fa-check absolute left-0 top-1.5"></i>
+                {{ . | markdownify }}
+              </li>
+            {{ end }}
+          </ul>
+          {{ with .button }}
+            {{ if .enable }}
+              <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
+                {{ .label }}
+                <i class="fa fa-arrow-right pl-2"></i>
+              </a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
   {{ end }}
-  <!-- /Testimonials -->
+  <!-- /About -->
+
 {{ end }}
