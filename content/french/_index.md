@@ -45,46 +45,93 @@ campaign:
     - content: "Favoriser les capacités et la formation des professionnel•les de santé en santé menstruelle"
     - content: "Favoriser les recherches d’analyse des produits périodiques pour identifier les produits toxiques pour le corps et l’environnement"
     - content: "Réguler les protections périodiques pour qu’elles soient saines et respectueuses de l’environnement"
+  catchphrase: "Si la réalité vécue par 112 millions de personnes ne suffit pas à se rendre à l’évidence qu’il y faut agir, qu’est-ce qui le fera ?"
+  first_hashtag: "#menstrualmatterseu"
+  second_hashtag: "#endperiodpoverty"
+  third_hashtag: "#periodfriendlyeurope"
+  button_tribune: "Télécharger la tribune"
+  join_phrase: "Vous voulez rejoindre le mouvement ?"
+  button_contact: "Contactez-nous"
 
-# Features
-features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+# Study
+study:
+  title: "Notre étude"
+  numbers:
+    - img: "/images/silence.png"
+      number: "51%"
+      text: "des européen·nes considèrent les règles comme un sujet tabou, voire très tabou."
+    - img: "/images/book.png"
+      number: "54%"
+      text: "n’ont jamais entendu parler des pathologies liées aux règles."
+    - img: "/images/message.png"
+      number: "48%"
+      text: "des femmes n'ont jamais entendu parler de pathologies liées aux règles."
+    - img: "/images/pain.png"
+      number: "53%"
+      text: "des femmes déclarent avoir déjà eu des règles si douloureuses qu’elles les empêchaient d’accomplir leurs activités quotidiennes."
+    - img: "/images/box.png"
+      number: "42%"
+      text: "des femmes ont été concernées par la précarité menstruelle au cours des 12 derniers mois."
+    - img: "/images/pad.png"
+      number: "Les 18-24 ans"
+      text: "sont une des populations les plus concernées par les enjeux liés à la précarité menstruelle."
+  button: "Voir l'étude"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+# About
+about:
+  title: "À propos"
+  first_asso:
+    title: "🇫🇷 France - Règles Élémentaires"
+    content: "Le #MenstrualMattersEU est une initiative coordonnée par Règles Élémentaires. Règles Élémentaires est originellement une association française de lutte contre la précarité menstruelle et le tabou des règles. Depuis 2016, l’association a mis les sujets liés aux règles sur le devant de la vie publique, en mobilisant toute la société, des citoyen•nes aux décideur•euses politiques en passant par des milliers d’acteur•ices de terrain pour faire que les règles ne soient plus jamais un obstacle.<br/>Ces dernières années, Règles Élémentaires a développé de nouveaux projets au niveau européen, notamment, le Menstrual Education Network, un réseau d’éducation menstruelle soutenu par le programme Erasmus +."
+    contact:
+      text: "Contactez-nous"
+      email: "justine@regleselementaires.com"
+    website:
+      text: "www.regleselementaires.com"
+      link: "https://www.regleselementaires.com/"
+    socials:
+      facebook: "https://www.facebook.com/regleselementaires"
+      instagram: "https://www.instagram.com/regleselementaires/"
+      linkedin: "https://www.linkedin.com/company/r%C3%A8gles-el%C3%A9mentaires/"
+      tiktok: "https://www.tiktok.com/@regleselementaires"
+  partners:
+    - title: "🇫🇷 France - Règles Élémentaires"
+      content: "Le #MenstrualMattersEU est une initiative coordonnée par Règles Élémentaires. Règles Élémentaires est originellement une association française de lutte contre la précarité menstruelle et le tabou des règles. Depuis 2016, l’association a mis les sujets liés aux règles sur le devant de la vie publique, en mobilisant toute la société, des citoyen•nes aux décideur•euses politiques en passant par des milliers d’acteur•ices de terrain pour faire que les règles ne soient plus jamais un obstacle.<br/>Ces dernières années, Règles Élémentaires a développé de nouveaux projets au niveau européen, notamment, le Menstrual Education Network, un réseau d’éducation menstruelle soutenu par le programme Erasmus +."
+      contact:
+        text: "Contactez-nous"
+        email: "justine@regleselementaires.com"
+      website:
+        text: "www.regleselementaires.com"
+        link: "https://www.regleselementaires.com/"
+      socials:
+        facebook: "https://www.facebook.com/regleselementaires"
+        instagram: "https://www.instagram.com/regleselementaires/"
+        linkedin: "https://www.linkedin.com/company/r%C3%A8gles-el%C3%A9mentaires/"
+        tiktok: "https://www.tiktok.com/@regleselementaires"
+    - title: "🇫🇷 France - Règles Élémentaires"
+      content: "Le #MenstrualMattersEU est une initiative coordonnée par Règles Élémentaires. Règles Élémentaires est originellement une association française de lutte contre la précarité menstruelle et le tabou des règles. Depuis 2016, l’association a mis les sujets liés aux règles sur le devant de la vie publique, en mobilisant toute la société, des citoyen•nes aux décideur•euses politiques en passant par des milliers d’acteur•ices de terrain pour faire que les règles ne soient plus jamais un obstacle.<br/>Ces dernières années, Règles Élémentaires a développé de nouveaux projets au niveau européen, notamment, le Menstrual Education Network, un réseau d’éducation menstruelle soutenu par le programme Erasmus +."
+      contact:
+        text: "Contactez-nous"
+        email: "justine@regleselementaires.com"
+      website:
+        text: "www.regleselementaires.com"
+        link: "https://www.regleselementaires.com/"
+      socials:
+        facebook: "https://www.facebook.com/regleselementaires"
+        instagram: "https://www.instagram.com/regleselementaires/"
+        linkedin: "https://www.linkedin.com/company/r%C3%A8gles-el%C3%A9mentaires/"
+        tiktok: "https://www.tiktok.com/@regleselementaires"
+    - title: "🇫🇷 France - Règles Élémentaires"
+      content: "Le #MenstrualMattersEU est une initiative coordonnée par Règles Élémentaires. Règles Élémentaires est originellement une association française de lutte contre la précarité menstruelle et le tabou des règles. Depuis 2016, l’association a mis les sujets liés aux règles sur le devant de la vie publique, en mobilisant toute la société, des citoyen•nes aux décideur•euses politiques en passant par des milliers d’acteur•ices de terrain pour faire que les règles ne soient plus jamais un obstacle.<br/>Ces dernières années, Règles Élémentaires a développé de nouveaux projets au niveau européen, notamment, le Menstrual Education Network, un réseau d’éducation menstruelle soutenu par le programme Erasmus +."
+      contact:
+        text: "Contactez-nous"
+        email: "justine@regleselementaires.com"
+      website:
+        text: "www.regleselementaires.com"
+        link: "https://www.regleselementaires.com/"
+      socials:
+        facebook: "https://www.facebook.com/regleselementaires"
+        instagram: "https://www.instagram.com/regleselementaires/"
+        linkedin: "https://www.linkedin.com/company/r%C3%A8gles-el%C3%A9mentaires/"
+        tiktok: "https://www.tiktok.com/@regleselementaires"
 ---

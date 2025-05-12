@@ -18,9 +18,18 @@
   font-size: 1.875rem;
 }
 
-ul {
+#campaign ul {
   list-style-type: disc;
   margin-left: 1rem;
+}
+
+.number-container:nth-child(odd) div {
+  @apply bg-red text-white;
+
+}
+
+.number-container:nth-child(even) div {
+  @apply bg-white text-red;
 }
 
 @media (width >= 48rem) { 
