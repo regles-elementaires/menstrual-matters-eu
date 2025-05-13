@@ -12,40 +12,11 @@ url = "/#study"
 weight = 2
 
 [[main]]
-name = "About"
+name = "About us"
 url = "/#about"
 weight = 3
 
 [[main]]
+name = "Contact us"
+url = "mailto:justine@regleselementaires.com"
 weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
-name = "Elements"
-url = "/elements"
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"

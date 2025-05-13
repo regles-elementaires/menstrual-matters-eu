@@ -40,21 +40,16 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["Menstruation", "Europe", "Period"]
+description = "#MenstrualMattersEU is a movement launched by several European associations to bring visibility to a topic often overlooked in European policy: menstruation."
+author = "Règles Elémentaires"
 image = "images/og-image.png"
 
-
-# site verifications
-# verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
-[site_verification]
-google = ""   # Your verification code
-bing = ""     # Your verification code
-baidu = ""    # Your verification code
-facebook = "" # Your verification code
-mastodon = "" # Your verification code
+# matomo tracking: see https://matomo.org/
+[matomo]
+enable = true
+url = "matomo.regleselementaires.com"
+id = "8"
 
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent

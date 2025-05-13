@@ -80,7 +80,7 @@
           {{ range .goals }}
             <div class="hidden md:flex">
               {{ partial "image" (dict "Src" "/images/arrow.svg" "Alt" "" "Loading" "eager") }}
-              <div class="ml-6 bg-pink rounded-xl py-4 px-8 font-semibold mb-2">
+              <div class="ml-6 bg-pink rounded-xl py-4 px-8 font-semibold mb-2 grow">
                 {{ .content | markdownify }}
               </div>
             </div>
@@ -125,12 +125,12 @@
   <!-- Study -->
   {{ with .Params.study }}
     <section id="study" class="container mt-12">
-      <div class="m-4 md:m-0 bg-pink rounded-4xl py-8 md:py-12 px-8 md:px-20">
+      <div class="m-4 md:m-0 bg-pink rounded-4xl py-8 md:py-12 px-4 md:px-20">
         <h2 class="text-center font-primary font-extrabold">{{ .title }}</h2>
         <div class="flex flex-wrap mt-8">
           {{ range .numbers }}
             <div class="md:col-4 px-4 py-2 number-container">
-                <div class="flex flex-col rounded-xl py-8 px-12 h-full">
+                <div class="flex flex-col rounded-xl py-8 px-8 md:px-12 h-full">
                   {{ partial "image" (dict "Src" .img "Alt" "" "Loading" "eager") }}
                   <span class="text-4xl font-bold my-2">{{ .number }}</span>
                   <span class="">{{ .text }}</span>
@@ -149,11 +149,11 @@
   <!-- About -->
   {{ with .Params.about }}
   <section id="about" class="container mt-12">
-    <div class="m-4 md:m-0 py-8 md:py-20 px-8 md:px-20">
+    <div class="m-4 md:m-0 py-8 md:py-20 md:px-20">
       <h2 class="font-primary font-extrabold">{{ .title }}</h2>
       <div class="flex flex-wrap mt-8 text-black">
         {{ with .first_asso }}
-        <div class="md:col-6 flex flex-col pr-4">
+        <div class="md:col-6 flex flex-col md:pr-4">
           <span class="font-bold text-2xl">{{ .title }}</span>
           <span class="mt-4 mb-2">{{ .content | markdownify }}</span>
           {{ with .contact }}
@@ -192,9 +192,11 @@
           {{ partial "image" (dict "Src" "images/europe-team.png" "Alt" "" "Loading" "eager") }}
         </div>
         {{ range .partners }}
-          <div class="md:col-6 flex flex-col pr-4 mt-8 md:mt-12">
-            <span class="font-bold text-2xl">{{ .title }}</span>
-            <span class="mt-4 mb-2">{{ .content | markdownify }}</span>
+          <div class="md:col-6 flex flex-col md:odd:pr-4 md:even:pl-4 mt-8 md:mt-12">
+            <span class="font-bold text-2xl mb-4">{{ .title }}</span>
+            {{ with .content }}
+            <span class="mb-2">{{ . | markdownify }}</span>
+            {{ end }}
             {{ with .contact }}
             <a class=" underline font-semibold" href="mailto:{{.email}}">{{ .text }}</a>
             {{ end }}

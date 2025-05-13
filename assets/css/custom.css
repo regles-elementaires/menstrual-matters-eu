@@ -18,7 +18,7 @@
   font-size: 1.875rem;
 }
 
-#campaign ul {
+#campaign ul, #about ul {
   list-style-type: disc;
   margin-left: 1rem;
 }

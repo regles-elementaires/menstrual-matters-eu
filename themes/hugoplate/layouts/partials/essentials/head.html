@@ -16,10 +16,6 @@
 {{ partialCached "manifest" . }}
 
 
-<!-- site verifications -->
-{{ partialCached "site-verifications.html" . }}
-
-
 <!-- opengraph and twitter card -->
 {{ partial "basic-seo.html" . }}
 
@@ -28,22 +24,12 @@
 {{ partialCached "custom-script.html" . }}
 
 
-<!-- google analytics -->
-{{ if and site.Config.Services.GoogleAnalytics.ID (ne site.Config.Services.GoogleAnalytics.ID "G-MEASUREMENT_ID") }}
-  {{ template "_internal/google_analytics.html" . }}
-{{ end }}
-
-
-<!-- google tag manager -->
-{{ partialCached "gtm.html" . }}
-
-
 <!-- search index -->
 {{ partial "search-index.html" . }}
 
 
 <!-- matomo analytics -->
-{{/* {{ partialCached "matomo-analytics.html" . }} */}}
+{{ partialCached "matomo-analytics.html" . }}
 
 <!--  Baidu analytics -->
 {{/* {{ partialCached "baidu-analytics.html" . }} */}}
