@@ -72,9 +72,6 @@ study:
     - img: "/images/box.png"
       number: "42%"
       text: "of women have experienced menstrual poverty in the last 12 months."
-    - img: "/images/pad.png"
-      number: "18–24 year olds"
-      text: "18–24 year olds are one of the groups most affected by menstrual poverty and its consequences."
   button: "View the study"
 
 # About

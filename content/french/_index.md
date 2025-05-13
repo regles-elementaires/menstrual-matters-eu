@@ -75,9 +75,6 @@ study:
     - img: "/images/box.png"
       number: "42%"
       text: "des femmes ont été concernées par la précarité menstruelle au cours des 12 derniers mois."
-    - img: "/images/pad.png"
-      number: "Les 18-24 ans"
-      text: "sont une des populations les plus concernées par les enjeux liés à la précarité menstruelle."
   button: "Voir l'étude"
 
 # About
