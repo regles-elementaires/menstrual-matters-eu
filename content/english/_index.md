@@ -17,18 +17,18 @@ campaign:
     text: "In 2025, period poverty is still a burden for millions of Europeans and a public health emergency"
   first_part: "<b>In the 27 countries of the European Union (EU), there are nearly 112 million people who menstruate.</b> These are European figures we rarely see brought together—because in fact, periods are a topic that remains largely unspoken in the EU.<br/><br/>
   Today, <b>May 28, 2025</b>, the International Menstrual Health and Hygiene Day, we want to highlight the weight of period poverty and taboo in Europe through the publication of an exclusive survey and actions in European public spaces.<br/><br/>
-  <b>Because in 2025, more than half of Europeans still consider menstruation a taboo topic.</b>"
+  Because in 2025, <b>more than half of Europeans still consider menstruation a taboo topic.</b>"
   second_part: "<br/>The taboo surrounding periods starts with avoiding the subject. In Europe, like elsewhere, we don’t name periods—and if we do, we use euphemisms and images : <i>Rote Welle</i> (the red wave), <i>Niagara Falls</i>, <i>le mie cose</i> (my things), are just a few examples among more than 5000. While some of these expressions may sound funny, they are actually the first sign of a broader taboo—one that grows into hiding a pad up your sleeve, not daring to raise your hand in class to ask to use the bathroom, having to stay home during your period, or being mocked because of a visible bloodstain.<br/><br/>
   And while the <b><i>“Weight of Period poverty in Europe”</i></b> study confirms how deeply entrenched this taboo still is in European mindsets, it also underscores the urgent need to put periods on the political and social agenda, as the taboo has a massive impact on gender inequalities. From period poverty to the neglect of menstrual pain, Europe is far from immune to the harmful effects of misinformation and ignorance.<br/><br/>
   <b>Today, among the 112 million people who menstruate in Europe, 42% are experiencing period poverty.</b><br/><br/>
   Period poverty means lacking access to enough menstrual products, information and access to basic social and health services to live with dignity and comfort during your cycle. It means that nearly <b>50 million women and other people who menstruate in Europe</b> are forced to use inadequate alternatives. This number encompasses a wide range of situations that vary from country to country, and none of them should ever be ignored or dismissed—because even one person experiencing period poverty is already one too many. Rags, toilet paper, newspaper, or the overuse of menstrual products —these coping strategies can cause serious health issues and lasting psychological consequences."
-  third_part: "<br/>Menstruation comes at a cost, and <b>that cost is not affordable for everyone.</b>. Menstrual products—used every month for an average of forty years—should be treated as essential goods. Yet their prices are neither regulated nor reimbursed. In the past two years, due to inflation and the rising cost of living, several European organizations have reported further increases in the price of menstrual products. <b>50 million people facing period poverty is already far too many.</b> Understanding that menstruation is a human right and not a privilege, iIf nothing is done now, the situation is likely to worsen across the EU.<br/><br/>
+  third_part: "<br/>Menstruation comes at a cost, and <b>that cost is not affordable for everyone.</b>. Menstrual products—used every month for an average of forty years—should be treated as essential goods. Yet their prices are neither regulated nor reimbursed. In the past two years, due to inflation and the rising cost of living, several European organizations have reported further increases in the price of menstrual products. <b>50 million people facing period poverty is already far too many.</b> Understanding that menstruation is a human right and not a privilege, if nothing is done now, the situation is likely to worsen across the EU.<br/><br/>
   Alongside this deeply unequal and harmful reality, we must add that in <b>just the past year, 53% of people who menstruate in Europe have repeatedly missed daily activities due to severe period pain.</b> We remember that pain at any stage of the menstrual cycle is not normal.<br/><br/> 
   It means that <b>more than 50 million people</b> miss school, work, or sports because their periods are too painful. Imagine you’re preparing for your end-of-year exams—the ones that determine whether you move up a grade. Yet every month, you're doubled over with cramps, suffering from headaches that cloud your thinking, or bleeding so heavily you faint.<br/><br/>
-  And many people have no idea what is causing this pain, due to the lack of scientific research, medical carelessness and therefore late diagnoses. In fact, <b>1 in 2 people who menstruate have never even heard of conditions that may be related to their cycle.</b>"
-  fourth_part: "<br/>What can you do when you’ve always been told it’s “normal” to suffer during your period? When you’re denied a prescription to diagnose adenomyosis or endometriosis? When you end up in the hospital because you didn’t know wearing a tampon for more than four hours could be dangerous? If the places where women, girls, and all menstruating people live, work, and learn continue to ignore their realities—if no research is done to relieve their pain, if they don’t even dare speak up for fear or shame—how can we believe they have the same opportunities?<br/><br/>
+  And many people have no idea what is causing this pain, due to the lack of scientific research, medical carelessness and therefore late diagnoses. In fact, <b>1 in 2 people who menstruate have never even heard of conditions that may be related to their cycle</b>. A lack of information, awareness, and access to menstrual health care continues to be a <b>major barrier</b> for millions of Europeans."
+  fourth_part: "<br/>What can you do when you’ve always been told it’s “normal” to suffer during your period? When you’re denied a prescription to diagnose adenomyosis or endometriosis? When you end up in the hospital because you didn’t know wearing a tampon for more than four hours could be dangerous? If the places where <b>women, girls, and all menstruating people live, work, and learn</b> continue to ignore their realities—if no research is done to relieve their pain, if they don’t even dare speak up for fear or shame — <b>how can we believe they have the same opportunities?</b><br/><br/>
   From Brussels to Naples, from Tallinn to Dublin, and all across Europe, in cities and rural areas alike, millions experience menstruation as an economic, health and social burden.<br/><br/>
-  The European Union’s values are founded on equality, social rights, access to healthcare, and respect for citizens. It is therefore unacceptable for the EU to overlook menstrual health.<b>In 2025, it is time to make periods a European issue.</b><br/><br/>
+  The European Union’s values are founded on equality, social rights, access to healthcare, and respect for citizens. It is therefore unacceptable for the EU to overlook menstrual health.<b> In 2025, it is time to make periods a European issue.</b><br/><br/>
   We are calling on MEPs, commissioners, Council of Europe representatives, and all EU institutions to take action by:"
   goals:
     - content: "Developing a comprehensive approach to menstrual health, across sectors, and integrating it as a key area of public health and gender equality policy in the EU"
@@ -204,7 +204,7 @@ about:
       socials:
         facebook: "https://www.facebook.com/period.skopje/"
         instagram: "https://www.instagram.com/period.skopje/"
-    - title: "🇵🇱 Poland - Rozowa Skrzyneczka"
+    - title: "🇵🇱 Poland - Różowa Skrzyneczka"
       content: "The Różowa Skrzyneczka Foundation is a Polish organization combating menstrual exclusion since 2019 by providing free hygiene products in public spaces. They've installed over 20,000 pink boxes across Poland, including in schools, hospitals, and libraries, following the principle: “Take if you need, leave if you have extra.” Beyond distribution, the foundation offers educational programs like the Menstruation Academy, conducts workshops, and operates a menstrual helpline. They also advocate for systemic change, aiming to make menstrual products as accessible as toilet paper. Their efforts address the reality that 4% of menstruating individuals in Poland cannot afford hygiene products, leading to missed school or work."
       contact:
         text: "Contact us"
@@ -295,4 +295,17 @@ about:
       website:
         text: "www.menstruacnachudoba.sk"
         link: "https://www.menstruacnachudoba.sk/"
+    - title: "🇫🇷 France - Bon Sang"
+      content: "Bon Sang! is an association created in 2020 in the French Alpine capital, Grenoble, to fight the taboo surrounding menstruation. We organize sewing workshops for reusable menstrual products, school activities, and other formats to inform and raise awareness about menstruation. We also create games to make it easier to talk about this topic."
+      contact:
+        text: "Contact us"
+        email: "bon.sang.asso@gmail.com"
+      socials:
+        facebook: "https://www.facebook.com/bon.sang.asso"
+        instagram: "https://www.instagram.com/bon.sang.asso/"
+    - title: "🇫🇷 France - La grande collecte"
+      content: "La Grande Collecte is an association aiming to fight against period poverty and the taboo surrounding menstruation in the Haute-Garonne region. We facilitate the installation of free and self-service menstrual product dispensers in public spaces. At the same time, we offer awareness sessions, information activities, and discussion spaces to break the taboo around periods and to destigmatize menstruating people."
+      contact:
+        text: "Contact us"
+        email: "lagrandecollecte31@gmail.com"
 ---

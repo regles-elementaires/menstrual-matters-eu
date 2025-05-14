@@ -95,6 +95,19 @@ about:
       linkedin: "https://www.linkedin.com/company/r%C3%A8gles-el%C3%A9mentaires/"
       tiktok: "https://www.tiktok.com/@regleselementaires"
   partners:
+    - title: "🇫🇷 France - Bon Sang"
+      content: "Bon Sang ! est une association créée en 2020 dans la capitale française des Alpes (Grenoble) pour lutter contre le tabou des règles. Nous organisons des ateliers couture de protections périodiques réutilisables, des animations scolaires et d'autres formats pour informer et sensibiliser autour des menstruations, et nous créons des jeux pour faciliter l'échange autour de ce sujet."
+      contact:
+        text: "Contactez-nous"
+        email: "bon.sang.asso@gmail.com"
+      socials:
+        facebook: "https://www.facebook.com/bon.sang.asso"
+        instagram: "https://www.instagram.com/bon.sang.asso/"
+    - title: "🇫🇷 France - La grande collecte"
+      content: "La grande collecte est une association qui à pour objectif de lutter contre la précarité menstruelle et le tabou des règles en Haute-Garonne. Nous facilitons l'installation de distributeurs de protections menstruelles gratuites et en libre-service dans les espaces publics. En parallèle, nous proposons des temps de sensibilisation, d'information et d'échange afin de détabouiser les règles et déstigmatiser les personnes menstruées."
+      contact:
+        text: "Contactez-nous"
+        email: "lagrandecollecte31@gmail.com"
     - title: "🇳🇱 Pays-Bas - Neighborhood Feminists"
       contact:
         text: "Contactez-nous"
@@ -190,7 +203,7 @@ about:
       socials:
         facebook: "https://www.facebook.com/period.skopje/"
         instagram: "https://www.instagram.com/period.skopje/"
-    - title: "🇵🇱 Pologne - Rozowa Skrzyneczka"
+    - title: "🇵🇱 Pologne - Różowa Skrzyneczka"
       contact:
         text: "Contactez-nous"
         email: "fundacja@rozowaskrzyneczka.pl"

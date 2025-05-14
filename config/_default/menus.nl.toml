@@ -1,0 +1,22 @@
+############# Dutch navigation ##############
+
+# main menu
+[[main]]
+name = "Onze campagne"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Ons onderzoek"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "Over ons"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Contacteer ons"
+url = "mailto:justine@regleselementaires.com"
+weight = 4

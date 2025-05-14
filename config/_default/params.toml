@@ -45,12 +45,6 @@ description = "#MenstrualMattersEU is a movement launched by several European as
 author = "Règles Elémentaires"
 image = "images/og-image.png"
 
-# matomo tracking: see https://matomo.org/
-[matomo]
-enable = true
-url = "matomo.regleselementaires.com"
-id = "8"
-
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
