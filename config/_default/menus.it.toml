@@ -1,0 +1,22 @@
+############# Italian navigation ##############
+
+# main menu
+[[main]]
+name = "La nostra campagna"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Il nostro studio"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "Chi siamo"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Contattaci"
+url = "mailto:justine@regleselementaires.com"
+weight = 4

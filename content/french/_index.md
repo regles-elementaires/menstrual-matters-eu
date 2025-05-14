@@ -13,7 +13,7 @@ banner:
 campaign:
   title: "Notre campagne"
   intro: 
-    title: "Le poids des règles en Europe."
+    title: "Le poids des règles en Europe"
     text: "En 2025, la précarité menstruelle reste un fardeau pour des millions de personnes en Europe et une urgence de santé publique."
   first_part: "<b>27 pays et près de 112 millions de personnes qui ont leurs règles.</b> Voilà des chiffres européens qu’on a peu l’habitude de mettre ensemble car de fait, les règles, dans l’Union Européenne (UE), on en parle peu.<br/><br/>
   Aujourd’hui, à l’occasion du <b>28 Mai 2025, journée internationale de la santé menstruelle</b>, nous souhaitons rendre compte du poids des règles en Europe à travers la publication d’un sondage exclusif et une campagne dans l’espace public.<br/><br/>
@@ -169,13 +169,6 @@ about:
         facebook: "https://www.facebook.com/cromosomosx"
         instagram: "https://www.instagram.com/cromosomosx/"
         linkedin: "https://www.linkedin.com/company/cromosomosx/about/"
-    - title: "🇩🇪 Allemagne - WASH United"
-      contact:
-        text: "Contactez-nous"
-        email: "info@wash-united.org"
-      website:
-        text: "www.wash-united.org"
-        link: "https://www.wash-united.org/"
     - title: "🇩🇪 Allemagne - Perioden System"
       contact:
         text: "Contactez-nous"

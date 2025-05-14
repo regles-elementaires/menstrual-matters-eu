@@ -1,0 +1,22 @@
+############# German navigation ##############
+
+# main menu
+[[main]]
+name = "Unsere Kampagne"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Unsere Studie"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "Über uns"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Kontakt"
+url = "mailto:justine@regleselementaires.com"
+weight = 4

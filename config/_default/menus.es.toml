@@ -1,0 +1,22 @@
+############# Spanish navigation ##############
+
+# main menu
+[[main]]
+name = "Nuestra campaña"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Nuestro estudio"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "Sobre nosotras"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Contáctanos"
+url = "mailto:justine@regleselementaires.com"
+weight = 4

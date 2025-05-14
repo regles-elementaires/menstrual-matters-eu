@@ -166,13 +166,6 @@ about:
         facebook: "https://www.facebook.com/cromosomosx"
         instagram: "https://www.instagram.com/cromosomosx/"
         linkedin: "https://www.linkedin.com/company/cromosomosx/about/"
-    - title: "🇩🇪 Germany - WASH United"
-      contact:
-        text: "Contact us"
-        email: "info@wash-united.org"
-      website:
-        text: "www.wash-united.org"
-        link: "https://www.wash-united.org/"
     - title: "🇩🇪 Germany - Perioden System"
       content: "We are an organization founded and run by volunteers. Each and every one of us is committed to the mission of creating more equality and providing low-threshold support and education around period poverty and menstruation. Our members have been collecting donations since 2016 to supply people in need with menstrual and hygiene products. In addition, we collaborate with artists, gynecologists, schools, and companies to raise awareness. The topic of menstruation and period poverty needs more social awareness and attention.<br/>
       What exactly do we do?<br/>

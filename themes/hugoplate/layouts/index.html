@@ -132,7 +132,7 @@
             <div class="md:col-4 px-4 py-2 number-container">
                 <div class="flex flex-col rounded-xl py-8 px-8 md:px-12 h-full">
                   {{ partial "image" (dict "Src" .img "Alt" "" "Loading" "eager") }}
-                  <span class="text-4xl font-bold my-2">{{ .number }}</span>
+                  <span class="text-4xl font-bold my-2">{{ .number | markdownify }}</span>
                   <span class="">{{ .text }}</span>
                 </div>
             </div>

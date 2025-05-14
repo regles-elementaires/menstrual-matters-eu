@@ -22,9 +22,9 @@ campaign:
   Ons onderzoek, <b><i>“De Druk van Menstruatiearmoede in Europa”</i></b> laat zien hoe diep dit taboe nog geworteld is in het Europese denken. Tegelijk maakt het ook pijnlijk duidelijk hoe dringend het is om menstruatie op de politieke en maatschappelijke agenda te zetten. Want dit taboe versterkt ongelijkheid tussen mannen en vrouwen, en werkt door in alles van menstruatiearmoede tot het wegwuiven van menstruatiepijn.<br/><br/>
   <b>Vandaag, in 2025, leeft 42% van de 112 miljoen menstruerende mensen in Europa in menstruatiearmoede.</b><br/><br/>
   Menstruatiearmoede betekent dat je niet genoeg toegang hebt tot menstruatieproducten om je cyclus waardig en comfortabel door te komen. Het betekent dat <b>bijna 50 miljoen vrouwen en andere mensen die menstrueren in Europa noodgedwongen gebruik maken van ontoereikende alternatieven.</b> En achter dat getal gaan ontzettend veel verschillende situaties schuil – die per land verschillen, maar stuk voor stuk serieus genomen moeten worden. Want zelfs één persoon die menstruatiearmoede ervaart, is er al één te veel. Lappen stof, wc-papier, kranten, of het té lang gebruiken van maandverband of tampons – deze ‘oplossingen’ kunnen ernstige gezondheidsproblemen en langdurige psychische schade veroorzaken."
-  third_part: "<br/>Menstrueren kost geld – en dat is <b>niet voor iedereen betaalbaar</b>.  Menstruatieproducten, die mensen gemiddeld veertig jaar lang elke maand nodig hebben, zouden als essentiële basismiddelen behandeld moeten worden. Toch worden ze niet gereguleerd of vergoed. De afgelopen twee jaar zijn de prijzen, mede door inflatie en de stijgende kosten van levensonderhoud, alleen maar verder opgelopen. Verschillende Europese organisaties slaan alarm. <b>50 miljoen mensen in menstruatiearmoede is al veel te veel.</b> En als we nu niets doen, wordt het alleen maar erger.<br/><br/>
+  third_part: "<br/>Menstrueren kost geld – en dat is <b>niet voor iedereen betaalbaar</b>. Menstruatieproducten, die mensen gemiddeld veertig jaar lang elke maand nodig hebben, zouden als essentiële basismiddelen behandeld moeten worden. Toch worden ze niet gereguleerd of vergoed. De afgelopen twee jaar zijn de prijzen, mede door inflatie en de stijgende kosten van levensonderhoud, alleen maar verder opgelopen. Verschillende Europese organisaties slaan alarm. <b>50 miljoen mensen in menstruatiearmoede is al veel te veel.</b> En als we nu niets doen, wordt het alleen maar erger.<br/><br/>
   Daarbovenop komt nog iets: <b>in het afgelopen jaar heeft 53% van de menstruerende mensen in Europa herhaaldelijk dagelijkse activiteiten moeten missen vanwege hevige menstruatiepijn en bloedverlies.</b><br/><br/> 
-  Dat betekent dat <b>meer dan 50 miljoen mensen school, werk of sport moeten overslaan </b> omdat hun menstruatie te pijnlijk of hevig is. Stel je voor: je bereidt je voor op je eindexamens – die bepalen of je overgaat. Maar elke maand lig je letterlijk dubbel van de kramp, heb je zulke heftige hoofdpijn dat je je niet kunt concentreren, of bloed je zo hevig dat je bijna flauwvalt.<br/><br/>
+  Dat betekent dat <b>meer dan 50 miljoen mensen school, werk of sport moeten overslaan</b> omdat hun menstruatie te pijnlijk of hevig is. Stel je voor: je bereidt je voor op je eindexamens – die bepalen of je overgaat. Maar elke maand lig je letterlijk dubbel van de kramp, heb je zulke heftige hoofdpijn dat je je niet kunt concentreren, of bloed je zo hevig dat je bijna flauwvalt.<br/><br/>
   Velen weten niet eens waardoor die pijn komt: <b>helaas 1 op de 2 mensen die menstrueren heeft nog nooit gehoord van aandoeningen die met hun cyclus te maken kunnen hebben.</b> Niet alle menstruatiepijn komt door een ziekte, maar we weten inmiddels dat er wél veel aandoeningen zijn zoals endometriose of adenomyose die menstruatie beïnvloeden: in regelmaat, hoeveelheid bloedverlies en pijn. Toch is er een <b>enorm tekort aan informatie, bewustzijn en toegang tot menstruele gezondheidszorg</b>. Miljoenen Europeanen lopen hierdoor vast."
   fourth_part: "<br/>Wat kun je doen als je altijd te horen hebt gekregen dat pijn “erbij hoort”? Als je geen verwijsbrief krijgt om onderzocht te worden op endometriose? Als je in het ziekenhuis belandt omdat je niet wist dat een tampon langer dan vier uur inhouden gevaarlijk is? Zolang scholen, werkplekken en overheden de realiteit van vrouwen, meisjes en andere menstruerende mensen blijven negeren – zolang er geen onderzoek komt, zolang mensen niet durven praten uit angst of schaamte – hoe kunnen we dan zeggen dat iedereen gelijke kansen heeft?<br/><br/>
   Van Brussel tot Napels, van Tallinn tot Dublin, in grote steden én op het platteland: miljoenen mensen ervaren menstruatie als een economische, medische en sociale last.<br/><br/>
@@ -65,7 +65,7 @@ study:
       text: "heeft nog nooit gehoord van menstruatiegerelateerde gezondheidsproblemen."
     - img: "/images/message.png"
       number: "48%"
-      text: "van de vrouwen heeft nog nooit gehoord van menstruatiestoornissen"
+      text: "van de vrouwen heeft nog nooit gehoord van menstruatiestoornissen."
     - img: "/images/pain.png"
       number: "53%"
       text: "van de vrouwen geeft aan zulke pijnlijke menstruaties te hebben gehad dat ze hun dagelijkse activiteiten niet konden uitvoeren."
@@ -161,13 +161,6 @@ about:
         facebook: "https://www.facebook.com/cromosomosx"
         instagram: "https://www.instagram.com/cromosomosx/"
         linkedin: "https://www.linkedin.com/company/cromosomosx/about/"
-    - title: "🇩🇪 Germany - WASH United"
-      contact:
-        text: "Contacteer ons"
-        email: "info@wash-united.org"
-      website:
-        text: "www.wash-united.org"
-        link: "https://www.wash-united.org/"
     - title: "🇩🇪 Germany - Perioden System"
       contact:
         text: "Contacteer ons"
