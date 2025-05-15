@@ -256,7 +256,7 @@ about:
       socials:
         instagram: "https://www.instagram.com/dostojnamenstruacia/"
         linkedin: "https://www.linkedin.com/company/intymyta"
-    - title: "🇨🇿 République Tchèque - Sola Pomaha"
+    - title: "🇨🇿 République Tchèque - Sola Pomáhá"
       contact:
         text: "Contactez-nous"
         email: "solapomaha@gmail.com"

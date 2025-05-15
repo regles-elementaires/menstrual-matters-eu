@@ -1,0 +1,22 @@
+############# Polish navigation ##############
+
+# main menu
+[[main]]
+name = "Nasza kampania"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Nasze badanie"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "O nas"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Skontaktuj się z nami"
+url = "mailto:justine@regleselementaires.com"
+weight = 4

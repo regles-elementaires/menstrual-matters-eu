@@ -1,0 +1,22 @@
+############# Romanian navigation ##############
+
+# main menu
+[[main]]
+name = "Campania noastră"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Studiul nostru"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "Despre noi"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Contactează-ne"
+url = "mailto:justine@regleselementaires.com"
+weight = 4

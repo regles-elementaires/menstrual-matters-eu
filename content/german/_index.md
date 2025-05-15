@@ -114,7 +114,7 @@ about:
       socials:
         instagram: "https://www.instagram.com/neighborhoodfeminists/"
         linkedin: "https://www.linkedin.com/company/neighborhood-feminists/"
-    - title: "🇸🇪 Suède - MENSEN"
+    - title: "🇸🇪 Sweden - MENSEN"
       contact:
         text: "Kontakt"
         email: "info@mensen.se"
@@ -124,7 +124,7 @@ about:
       socials:
         instagram: "https://www.instagram.com/mensen.se/"
         linkedin: "https://www.linkedin.com/company/mensenforumformenstruation/"
-    - title: "🇧🇪 Belgique - Bruzelle"
+    - title: "🇧🇪 Belgium - Bruzelle"
       contact:
         text: "Kontakt"
         email: "info@bruzelle.be"
@@ -135,7 +135,7 @@ about:
         facebook: "https://www.facebook.com/BruZelle/"
         instagram: "https://www.instagram.com/bruzelle.vzw.asbl/"
         linkedin: "https://www.linkedin.com/company/bruzelle"
-    - title: "🇪🇸 Espagne - La vida en rojo"
+    - title: "🇪🇸 Spain - La vida en rojo"
       contact:
         text: "Kontakt"
         email: "asociacionculturamenstrual@gmail.com"
@@ -145,7 +145,7 @@ about:
       socials:
         facebook: "https://www.facebook.com/lavidaenrojoasociacion"
         instagram: "https://www.instagram.com/lavidaenrojo_asociacion/"
-    - title: "🇪🇸 Espagne - Red Internacional de Salud y Educación Menstrual"
+    - title: "🇪🇸 Spain - Red Internacional de Salud y Educación Menstrual"
       contact:
         text: "Kontakt"
         email: "risem.info@gmail.com"
@@ -154,7 +154,7 @@ about:
         link: "https://risem.org/"
       socials:
         instagram: "https://www.instagram.com/redsaludmenstrual/"
-    - title: "🇪🇸 Espagne - Cromosomos X"
+    - title: "🇪🇸 Spain - Cromosomos X"
       contact:
         text: "Kontakt"
         email: "hola@cromosomosx.org"
@@ -165,7 +165,7 @@ about:
         facebook: "https://www.facebook.com/cromosomosx"
         instagram: "https://www.instagram.com/cromosomosx/"
         linkedin: "https://www.linkedin.com/company/cromosomosx/about/"
-    - title: "🇲🇰 Macédoine du Nord - Tiiiit! Inc."
+    - title: "🇲🇰 North Macedonia - Tiiiit! Inc."
       contact:
         text: "Kontakt"
         email: "tiiiit.inc@gmail.com"
@@ -175,14 +175,14 @@ about:
       socials:
         facebook: "https://www.facebook.com/Tiiiit.inc/"
         instagram: "https://www.instagram.com/tiiiit.inc/"
-    - title: "🇲🇰 Macédoine du Nord - Period Skopje"
+    - title: "🇲🇰 North Macedonia - Period Skopje"
       contact:
         text: "Kontakt"
         email: "period.skopje@gmail.com"
       socials:
         facebook: "https://www.facebook.com/period.skopje/"
         instagram: "https://www.instagram.com/period.skopje/"
-    - title: "🇵🇱 Pologne - Różowa Skrzyneczka"
+    - title: "🇵🇱 Poland - Różowa Skrzyneczka"
       contact:
         text: "Kontakt"
         email: "fundacja@rozowaskrzyneczka.pl"
@@ -193,7 +193,7 @@ about:
         facebook: "https://www.facebook.com/rozowaskrzyneczka"
         instagram: "https://www.instagram.com/rozowaskrzyneczka"
         linkedin: "https://www.linkedin.com/company/r%C3%B3%C5%BCowa-skrzyneczka"
-    - title: "🇵🇱 Pologne - Akcja menstruacja "
+    - title: "🇵🇱 Poland - Akcja menstruacja "
       contact:
         text: "Kontakt"
         email: "kontakt@akcjamenstruacja.pl"
@@ -203,7 +203,7 @@ about:
       socials:
         facebook: "https://www.facebook.com/akcjamenstruacja"
         instagram: "https://www.instagram.com/akcjamenstruacja"
-    - title: "🇷🇴 Roumanie - Pe stop"
+    - title: "🇷🇴 Romania - Pe stop"
       contact:
         text: "Kontakt"
         email: "alo@pestop.org"
@@ -213,7 +213,7 @@ about:
       socials:
         facebook: "https://www.facebook.com/pestop.org"
         instagram: "https://www.instagram.com/pe.stop/"
-    - title: "🇷🇴 Roumanie - Iele-Sânziene"
+    - title: "🇷🇴 Romania - Iele-Sânziene"
       contact:
         text: "Kontakt"
         email: "oana@ielesanziene.org"
@@ -222,7 +222,7 @@ about:
         link: "https://ielesanziene.org/"
       socials:
         instagram: "https://www.instagram.com/ielesanziene"
-    - title: "🇮🇹 Italie - Eva in Rosso"
+    - title: "🇮🇹 Italy - Eva in Rosso"
       contact:
         text: "Kontakt"
         email: "info@evainrosso.com"
@@ -232,7 +232,7 @@ about:
       socials:
         instagram: "https://www.instagram.com/evainrosso/"
         linkedin: "https://www.linkedin.com/company/eva-in-rosso-aps/about/"
-    - title: "🇸🇰 Slovaquie - InTYMYta (Dôstojná menštruácia)"
+    - title: "🇸🇰 Slovakia - InTYMYta (Dôstojná menštruácia)"
       contact:
         text: "Kontakt"
         email: "dostojna_menstruacia@intymyta.sk "
@@ -242,7 +242,7 @@ about:
       socials:
         instagram: "https://www.instagram.com/dostojnamenstruacia/"
         linkedin: "https://www.linkedin.com/company/intymyta"
-    - title: "🇨🇿 République Tchèque - Sola Pomaha"
+    - title: "🇨🇿 Czech Republic - Sola Pomáhá"
       contact:
         text: "Kontakt"
         email: "solapomaha@gmail.com"
@@ -251,7 +251,7 @@ about:
         link: "https://www.solapomaha.cz/"
       socials:
         instagram: "https://www.instagram.com/solapomaha/"
-    - title: "🇸🇰 Slovaquie - Iniciatíva za dôstojnú menštruáciu"
+    - title: "🇸🇰 Slovakia - Iniciatíva za dôstojnú menštruáciu"
       contact:
         text: "Kontakt"
         email: "natalia@intymyta.sk "

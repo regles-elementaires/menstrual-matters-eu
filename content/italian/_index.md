@@ -18,7 +18,7 @@ campaign:
   first_part: "<b>Nei 27 paesi dell’Unione Europea (UE), ci sono quasi 112 milioni di persone che hanno il ciclo mestruale.</b> Sono cifre europee che raramente vediamo messe insieme—perché, in effetti, le mestruazioni sono ancora un argomento largamente taciuto nell’UE.<br/><br/>
   Oggi, <b>28 maggio 2025</b>, Giornata Internazionale dell’Igiene Mestruale, vogliamo mettere in evidenza il peso della povertà mestruale e del tabù che la circonda in Europa, attraverso la pubblicazione di un’indagine esclusiva e azioni negli spazi pubblici europei.<br/><br/>
   Perché, nel 2025, <b>più della metà degli europei considera ancora le mestruazioni un argomento tabù.</b>"
-  second_part: "<br/>Il tabù che avvolge le mestruazioni comincia proprio dal silenzio, dall’evitare di parlarne. In Europa, come altrove, non si nominano le mestruazioni e quando lo si fa, si ricorre a eufemismi e immagini: <i>il Mar Rosso</i>, <i>il ciclo</i>, <i>i giorni X</i>, <i>le mie cose</i> sono solo alcuni tra oltre 5000 modi di dire. Alcune di queste espressioni possono anche sembrare buffe, ma sono in realtà il primo segnale di un tabù molto più ampio—che si traduce nel nascondere un assorbente nella manica, nel non osare alzare la mano a scuola per chiedere di andare in bagno, nel restare a casa durante le mestruazioni, o nell’essere derise a causa di una macchia di sangue visibile<br/><br/>
+  second_part: "<br/>Il tabù che avvolge le mestruazioni comincia proprio dal silenzio, dall’evitare di parlarne. In Europa, come altrove, non si nominano le mestruazioni e quando lo si fa, si ricorre a eufemismi e immagini: <i>il Mar Rosso</i>, <i>il ciclo</i>, <i>i giorni X</i>, <i>le mie cose</i> sono solo alcuni tra oltre 5000 modi di dire. Alcune di queste espressioni possono anche sembrare buffe, ma sono in realtà il primo segnale di un tabù molto più ampio—che si traduce nel nascondere un assorbente nella manica, nel non osare alzare la mano a scuola per chiedere di andare in bagno, nel restare a casa durante le mestruazioni, o nell’essere derise a causa di una macchia di sangue visibile.<br/><br/>
   E se lo studio <b><i>“Il peso della povertà mestruale in Europa”</i></b> conferma quanto il tabù sia ancora profondamente radicato nel pensiero collettivo europeo, sottolinea anche l’urgenza di mettere le mestruazioni all’ordine del giorno politico e sociale, poiché il tabù ha un impatto enorme sulle disuguaglianze di genere. Dalla povertà mestruale alla trascuratezza del dolore mestruale, l’Europa non è affatto immune dagli effetti nocivi della disinformazione e dell’ignoranza.<br/><br/>
   <b>Oggi, tra le 112 milioni di persone che hanno il ciclo mestruale in Europa, il 42% vive in condizioni di povertà mestruale.</b><br/><br/>
   La povertà mestruale significa non avere sufficiente accesso ai prodotti igienici per vivere il ciclo con dignità e comfort. Significa che quasi <b>50 milioni di donne e persone che mestruano in Europa sono costrette a utilizzare alternative inadeguate</b>. Questo numero include una vasta gamma di situazioni che variano da paese a paese, e nessuna di esse dovrebbe mai essere ignorata o minimizzata—perché anche solo una persona che vive la povertà mestruale è già una di troppo. Stracci, carta igienica, giornali o l’uso prolungato degli stessi prodotti mestruali—queste strategie di “ripiego” possono causare seri problemi di salute e gravi conseguenze psicologiche."
@@ -71,7 +71,7 @@ study:
       text: "delle donne dichiara di aver avuto dolori mestruali così intensi da impedirle di svolgere le attività quotidiane."
     - img: "/images/box.png"
       number: "<span class='text-base font-normal'>Il</span> 42%"
-      text: " delle donne ha vissuto una situazione di povertà mestruale negli ultimi 12 mesi."
+      text: "delle donne ha vissuto una situazione di povertà mestruale negli ultimi 12 mesi."
   button: "Guarda lo studio"
 
 # About
@@ -240,7 +240,7 @@ about:
       socials:
         instagram: "https://www.instagram.com/dostojnamenstruacia/"
         linkedin: "https://www.linkedin.com/company/intymyta"
-    - title: "🇨🇿 Czech Republic - Sola Pomaha"
+    - title: "🇨🇿 Czech Republic - Sola Pomáhá"
       contact:
         text: "Contattaci"
         email: "solapomaha@gmail.com"
