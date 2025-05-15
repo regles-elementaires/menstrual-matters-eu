@@ -1,0 +1,22 @@
+############# Swedish navigation ##############
+
+# main menu
+[[main]]
+name = "Vår kampanj"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Vår rapport"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "Om oss"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Kontakta oss"
+url = "mailto:justine@regleselementaires.com"
+weight = 4
