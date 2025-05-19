@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "112,000,000 people in Europe menstruate. Let’s not turn it into an anecdote."
+  title: "112,000,000 people in Europe menstruate. It matters."
   content: "#MenstrualMattersEU is a movement launched by several European associations to bring visibility to a topic often overlooked in European policy: menstruation. Through networking, sharing expertise, and taking action, we promote a society where menstrual poverty no longer exists and access to menstrual health is upheld as a fundamental right."
   image: "/images/banner.svg"
   button:
@@ -111,17 +111,19 @@ about:
       socials:
         instagram: "https://www.instagram.com/neighborhoodfeminists/"
         linkedin: "https://www.linkedin.com/company/neighborhood-feminists/"
-    - title: "🇸🇪 Sweden - MENSEN"
-      content: "MENSEN is a Sweden-based nonprofit organization working to raise awareness and improve menstrual health, rights, and equity through education, advocacy, and public discourse. We adopt an inclusive, rights-based, and intersectional approach to menstrual issues."
+    - title: "🇩🇪 Germany - Perioden System"
+      content: "We are an organization founded and run by volunteers. Each and every one of us is committed to the mission of creating more equality and providing low-threshold support and education around period poverty and menstruation. Our members have been collecting donations since 2016 to supply people in need with menstrual and hygiene products. In addition, we collaborate with artists, gynecologists, schools, and companies to raise awareness. The topic of menstruation and period poverty needs more social awareness and attention.<br/>
+      What exactly do we do?<br/>
+      Close communication with homeless shelters and social institutions allows us to know when and where there is a need. This way, we can ensure that donations reach the places where they are most needed. We supply emergency shelters, such as those run by GEBEWO, Berliner Stadtmission, SKF, and the German Red Cross (DRK), directly with menstrual and hygiene products through our crowdfunding page on betterplace.org. In the past, we have also received donations from companies in Germany, such as the Smiling Kangaroohs wine shop in Berlin, Signavio GmbH, Tagesspiegel and others. Through our online community on Instagram and Facebook, we provide education on period poverty and generally on topics such as menstruation, equality, and more. In regular online live sessions, meet-ups, and interviews, our team and community members raise awareness on topics like intersexuality, pregnancy, homelessness, and sexuality. We also offer workshops for companies, schools, and events to engage as many parts of society as possible on this issue."
       contact:
         text: "Contact us"
-        email: "info@mensen.se"
+        email: "post@perioden-system.de"
       website:
-        text: "mensen.se/en"
-        link: "https://mensen.se/en/"
+        text: "perioden-system.com"
+        link: "https://perioden-system.com/"
       socials:
-        instagram: "https://www.instagram.com/mensen.se/"
-        linkedin: "https://www.linkedin.com/company/mensenforumformenstruation/"
+        facebook: "https://www.facebook.com/periodensystem.berlin"
+        instagram: "https://www.instagram.com/perioden.system/"
     - title: "🇧🇪 Belgium - Bruzelle"
       content: "BruZelle is a Belgian association that has been actively fighting against menstrual poverty and the taboo surrounding menstruation since 2016. Since its creation, BruZelle has identified and brought attention to the issue of menstrual poverty in Belgium. To this end, various approaches have been explored, such as the methodology for collecting and distributing menstrual products, organizing participatory workshops, taking part in symposia, conferences, debates, festivals, studies, and interviews, creating educational tools for all audiences, and engaging with political authorities. Over time, BruZelle’s mission has become more refined and is now structured around three main pillars: collection and redistribution, awareness-raising and education, and advice and expertise."
       contact:
@@ -155,48 +157,6 @@ about:
         link: "https://risem.org/"
       socials:
         instagram: "https://www.instagram.com/redsaludmenstrual/"
-    - title: "🇪🇸 Spain - Cromosomos X"
-      contact:
-        text: "Contact us"
-        email: "hola@cromosomosx.org"
-      website:
-        text: "cromosomosx.org"
-        link: "https://cromosomosx.org/"
-      socials:
-        facebook: "https://www.facebook.com/cromosomosx"
-        instagram: "https://www.instagram.com/cromosomosx/"
-        linkedin: "https://www.linkedin.com/company/cromosomosx/about/"
-    - title: "🇩🇪 Germany - Perioden System"
-      content: "We are an organization founded and run by volunteers. Each and every one of us is committed to the mission of creating more equality and providing low-threshold support and education around period poverty and menstruation. Our members have been collecting donations since 2016 to supply people in need with menstrual and hygiene products. In addition, we collaborate with artists, gynecologists, schools, and companies to raise awareness. The topic of menstruation and period poverty needs more social awareness and attention.<br/>
-      What exactly do we do?<br/>
-      Close communication with homeless shelters and social institutions allows us to know when and where there is a need. This way, we can ensure that donations reach the places where they are most needed. We supply emergency shelters, such as those run by GEBEWO, Berliner Stadtmission, SKF, and the German Red Cross (DRK), directly with menstrual and hygiene products through our crowdfunding page on betterplace.org. In the past, we have also received donations from companies in Germany, such as the Smiling Kangaroohs wine shop in Berlin, Signavio GmbH, Tagesspiegel and others. Through our online community on Instagram and Facebook, we provide education on period poverty and generally on topics such as menstruation, equality, and more. In regular online live sessions, meet-ups, and interviews, our team and community members raise awareness on topics like intersexuality, pregnancy, homelessness, and sexuality. We also offer workshops for companies, schools, and events to engage as many parts of society as possible on this issue."
-      contact:
-        text: "Contact us"
-        email: "post@perioden-system.de"
-      website:
-        text: "perioden-system.com"
-        link: "https://perioden-system.com/"
-      socials:
-        facebook: "https://www.facebook.com/periodensystem.berlin"
-        instagram: "https://www.instagram.com/perioden.system/"
-    - title: "🇲🇰 North Macedonia - Tiiiit! Inc."
-      contact:
-        text: "Contact us"
-        email: "tiiiit.inc@gmail.com"
-      website:
-        text: "tiiiitinc.com"
-        link: "https://tiiiitinc.com/"
-      socials:
-        facebook: "https://www.facebook.com/Tiiiit.inc/"
-        instagram: "https://www.instagram.com/tiiiit.inc/"
-    - title: "🇲🇰 North Macedonia - Period Skopje"
-      content: "PERIOD Skopje is a youth-led initiative advocating for menstrual justice and fighting period poverty and stigma in North Macedonia. Founded in 2020, the initiative focuses on education, awareness-raising, and advocacy for free, safe, and dignified access to menstrual products and education."
-      contact:
-        text: "Contact us"
-        email: "period.skopje@gmail.com"
-      socials:
-        facebook: "https://www.facebook.com/period.skopje/"
-        instagram: "https://www.instagram.com/period.skopje/"
     - title: "🇵🇱 Poland - Różowa Skrzyneczka"
       content: "The Różowa Skrzyneczka Foundation is a Polish organization combating menstrual exclusion since 2019 by providing free hygiene products in public spaces. They've installed over 20,000 pink boxes across Poland, including in schools, hospitals, and libraries, following the principle: “Take if you need, leave if you have extra.” Beyond distribution, the foundation offers educational programs like the Menstruation Academy, conducts workshops, and operates a menstrual helpline. They also advocate for systemic change, aiming to make menstrual products as accessible as toilet paper. Their efforts address the reality that 4% of menstruating individuals in Poland cannot afford hygiene products, leading to missed school or work."
       contact:
@@ -209,6 +169,46 @@ about:
         facebook: "https://www.facebook.com/rozowaskrzyneczka"
         instagram: "https://www.instagram.com/rozowaskrzyneczka"
         linkedin: "https://www.linkedin.com/company/r%C3%B3%C5%BCowa-skrzyneczka"
+    - title: "🇸🇪 Sweden - MENSEN"
+      content: "MENSEN is a Sweden-based nonprofit organization working to raise awareness and improve menstrual health, rights, and equity through education, advocacy, and public discourse. We adopt an inclusive, rights-based, and intersectional approach to menstrual issues."
+      contact:
+        text: "Contact us"
+        email: "info@mensen.se"
+      website:
+        text: "mensen.se/en"
+        link: "https://mensen.se/en/"
+      socials:
+        instagram: "https://www.instagram.com/mensen.se/"
+        linkedin: "https://www.linkedin.com/company/mensenforumformenstruation/"
+    - title: "🇲🇰 North Macedonia - Period Skopje"
+      content: "PERIOD Skopje is a youth-led initiative advocating for menstrual justice and fighting period poverty and stigma in North Macedonia. Founded in 2020, the initiative focuses on education, awareness-raising, and advocacy for free, safe, and dignified access to menstrual products and education."
+      contact:
+        text: "Contact us"
+        email: "period.skopje@gmail.com"
+      socials:
+        facebook: "https://www.facebook.com/period.skopje/"
+        instagram: "https://www.instagram.com/period.skopje/"
+    - title: "🇲🇰 North Macedonia - Tiiiit! Inc."
+      contact:
+        text: "Contact us"
+        email: "tiiiit.inc@gmail.com"
+      website:
+        text: "tiiiitinc.com"
+        link: "https://tiiiitinc.com/"
+      socials:
+        facebook: "https://www.facebook.com/Tiiiit.inc/"
+        instagram: "https://www.instagram.com/tiiiit.inc/"
+    - title: "🇪🇸 Spain - Cromosomos X"
+      contact:
+        text: "Contact us"
+        email: "hola@cromosomosx.org"
+      website:
+        text: "cromosomosx.org"
+        link: "https://cromosomosx.org/"
+      socials:
+        facebook: "https://www.facebook.com/cromosomosx"
+        instagram: "https://www.instagram.com/cromosomosx/"
+        linkedin: "https://www.linkedin.com/company/cromosomosx/about/"
     - title: "🇵🇱 Poland - Akcja menstruacja "
       content: "We are the first foundation in Poland whose main aim is to help people experiencing menstrual poverty. Since 2019, we have been supporting those affected by menstrual poverty by providing those in need with access to free menstrual supplies (sanitary pads, tampons, reusable products such as cups and menstrual panties), as well as implementing educational and anti-periodic taboo activities."
       contact:
@@ -220,17 +220,6 @@ about:
       socials:
         facebook: "https://www.facebook.com/akcjamenstruacja"
         instagram: "https://www.instagram.com/akcjamenstruacja"
-    - title: "🇷🇴 Romania - Pe Stop"
-      content: "Pe Stop is a Romanian non-governmental organization founded in 2018 to address period poverty. Our mission is to ensure that menstruation does not limit anyone’s dignity, health, or opportunities. At Pe Stop, we run both educational programs and monthly distributions of menstrual products through our national initiative called the Dignity Network (Rețeaua Demnității). Our two main educational programs focus on “Menstrual hygiene” and “Body awareness and consent”. These activities are made possible through the support and involvement of our amazing volunteers across the country. Through the Dignity Network, we currently support over 1,600 persons who menstruate every month nation-wide, by providing free menstrual products and vital information to help manage menstruation with dignity and safety. Beyond direct support, we are actively engaged in public policy advocacy, working toward reducing VAT on menstrual products to make them more accessible and affordable and ensuring free access to menstrual hygiene products in schools."
-      contact:
-        text: "Contact us"
-        email: "alo@pestop.org"
-      website:
-        text: "pestop.org"
-        link: "https://pestop.org/"
-      socials:
-        facebook: "https://www.facebook.com/pestop.org"
-        instagram: "https://www.instagram.com/pe.stop/"
     - title: "🇷🇴 Romania - Iele-Sânziene"
       content: "Iele-Sânziene Association is a feminist civil society organization founded in 2019, dedicated to promoting menstrual equity and access to sexual and reproductive rights among Romanian youth. The organization delivers menstrual and sexuality education for young people. Since 2021 Iele-Sânziene is leading sustained efforts to promote and advocate for access to free menstrual products in schools."
       contact:
@@ -241,6 +230,17 @@ about:
         link: "https://ielesanziene.org/"
       socials:
         instagram: "https://www.instagram.com/ielesanziene"
+    - title: "🇷🇴 Romania - Pe Stop"
+      content: "Pe Stop is a Romanian non-governmental organization founded in 2018 to address period poverty. Our mission is to ensure that menstruation does not limit anyone’s dignity, health, or opportunities. At Pe Stop, we run both educational programs and monthly distributions of menstrual products through our national initiative called the Dignity Network (Rețeaua Demnității). Our two main educational programs focus on “Menstrual hygiene” and “Body awareness and consent”. These activities are made possible through the support and involvement of our amazing volunteers across the country. Through the Dignity Network, we currently support over 1,600 persons who menstruate every month nation-wide, by providing free menstrual products and vital information to help manage menstruation with dignity and safety. Beyond direct support, we are actively engaged in public policy advocacy, working toward reducing VAT on menstrual products to make them more accessible and affordable and ensuring free access to menstrual hygiene products in schools."
+      contact:
+        text: "Contact us"
+        email: "alo@pestop.org"
+      website:
+        text: "pestop.org"
+        link: "https://pestop.org/"
+      socials:
+        facebook: "https://www.facebook.com/pestop.org"
+        instagram: "https://www.instagram.com/pe.stop/"    
     - title: "🇮🇹 Italy - Eva in Rosso"
       content: "Italian Social Promotion Association for the Promotion and Education of Menstrual Health<br/>
       Founded in 2022 by individuals with menstrual- related pathologies and professionals in cyclical health.<br/>
@@ -271,6 +271,14 @@ about:
       socials:
         instagram: "https://www.instagram.com/dostojnamenstruacia/"
         linkedin: "https://www.linkedin.com/company/intymyta"
+    - title: "🇸🇰 Slovakia - Iniciatíva za dôstojnú menštruáciu"
+      content: "The Initiative for Menstrual Dignity is a Slovak platform that brings together actors from the public, private, and non-governmental sectors with the aim of combating period poverty. As of April 2024, the initiative includes 24 participating entities. The main focus of the Initiative is advocacy, which targets three key areas: 1. Local governments – Supporting municipalities and regional authorities in funding menstrual products and educational activities in schools and communities. 2. The state – Promoting systemic changes such as: - the introduction of standardized health-hygiene packages (SZP) for primary schools, the elimination of VAT on menstrual products, updates to the hygiene regulation concerning school environments, the inclusion of menstrual products in the state budget as essential needs. 3. Public awareness – organizing informational events, lectures, and conferences, and distributing expert publications with the goal of destigmatizing menstruation and raising awareness about period poverty."
+      contact:
+        text: "Contact us"
+        email: "natalia@intymyta.sk "
+      website:
+        text: "www.menstruacnachudoba.sk"
+        link: "https://www.menstruacnachudoba.sk/"
     - title: "🇨🇿 Czech Republic - Sola Pomáhá"
       contact:
         text: "Contact us"
@@ -280,12 +288,4 @@ about:
         link: "https://www.solapomaha.cz/"
       socials:
         instagram: "https://www.instagram.com/solapomaha/"
-    - title: "🇸🇰 Slovakia - Iniciatíva za dôstojnú menštruáciu"
-      content: "The Initiative for Menstrual Dignity is a Slovak platform that brings together actors from the public, private, and non-governmental sectors with the aim of combating period poverty. As of April 2024, the initiative includes 24 participating entities. The main focus of the Initiative is advocacy, which targets three key areas: 1. Local governments – Supporting municipalities and regional authorities in funding menstrual products and educational activities in schools and communities. 2. The state – Promoting systemic changes such as: - the introduction of standardized health-hygiene packages (SZP) for primary schools, the elimination of VAT on menstrual products, updates to the hygiene regulation concerning school environments, the inclusion of menstrual products in the state budget as essential needs. 3. Public awareness – organizing informational events, lectures, and conferences, and distributing expert publications with the goal of destigmatizing menstruation and raising awareness about period poverty."
-      contact:
-        text: "Contact us"
-        email: "natalia@intymyta.sk "
-      website:
-        text: "www.menstruacnachudoba.sk"
-        link: "https://www.menstruacnachudoba.sk/"
 ---

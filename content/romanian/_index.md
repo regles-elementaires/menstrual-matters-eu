@@ -78,27 +78,27 @@ study:
 about:
   title: "Despre noi"
   first_asso:
-    title: "🇷🇴 România - Pe stop"
-    content: "Pe Stop este o organizație non-guvernamentală fondată în 2018 în România pentru a combate sărăcia menstruală. Misiunea noastră este să ne asigurăm că menstruatia nu limitează demnitatea, sănătatea sau oportunitățile nimănui. La Pe Stop, derulăm atât programe educaționale, cât și distribuții lunare de produse menstruale prin inițiativa noastră națională numită Rețeaua Demnității. Cele două programe educaționale principale se concentrează pe „Igiena menstruală” și „Corp și consimțământ”. Aceste activități sunt posibile datorită sprijinului și implicării voluntarilor noștri minunați din întreaga țară. Prin Rețeaua Demnității, susținem în prezent peste 1.600 de persoane care menstruează în fiecare lună la nivel național, oferindu-le produse menstruale gratuite și informații esențiale pentru a gestiona menstruatia cu demnitate și siguranță. Dincolo de sprijinul direct, suntem activ implicate în advocacy pentru schimbări legislative, lucrând la 2 proiecte de lege, unul pentru reducerea TVA-ului pe produsele menstruale, pentru a le face mai accesibile și mai abordabile, și al doilea pentru a asigura acces gratuit la produse de igienă menstruală în școli."
+    title: "🇷🇴 România - Iele-Sânziene"
+    content: "Asociația Iele-Sânziene este o organizație feministă fondată în 2019, dedicată promovării echității menstruale și accesului la drepturi sexuale și reproductive în rândul tinerilor din România. Organizația desfășoară ateliere de educație menstruală și sexuală pentru tineri. Din 2021, Iele-Sânziene a inițiat eforturi susținute pentru a promova și milita pentru accesul la produse menstruale gratuite în școli."
     contact:
       text: "Contactează-ne"
-      email: "alo@pestop.org"
+      email: "oana@ielesanziene.org"
     website:
-      text: "pestop.org"
-      link: "https://pestop.org/"
+      text: "ielesanziene.org"
+      link: "https://ielesanziene.org/"
     socials:
-      facebook: "https://www.facebook.com/pestop.org"     
+      instagram: "https://www.instagram.com/ielesanziene"  
   partners:
-    - title: "🇷🇴 România - Iele-Sânziene"
-      content: "Asociația Iele-Sânziene este o organizație feministă fondată în 2019, dedicată promovării echității menstruale și accesului la drepturi sexuale și reproductive în rândul tinerilor din România. Organizația desfășoară ateliere de educație menstruală și sexuală pentru tineri. Din 2021, Iele-Sânziene a inițiat eforturi susținute pentru a promova și milita pentru accesul la produse menstruale gratuite în școli."
+    - title: "🇷🇴 România - Pe stop"
+      content: "Pe Stop este o organizație non-guvernamentală fondată în 2018 în România pentru a combate sărăcia menstruală. Misiunea noastră este să ne asigurăm că menstruatia nu limitează demnitatea, sănătatea sau oportunitățile nimănui. La Pe Stop, derulăm atât programe educaționale, cât și distribuții lunare de produse menstruale prin inițiativa noastră națională numită Rețeaua Demnității. Cele două programe educaționale principale se concentrează pe „Igiena menstruală” și „Corp și consimțământ”. Aceste activități sunt posibile datorită sprijinului și implicării voluntarilor noștri minunați din întreaga țară. Prin Rețeaua Demnității, susținem în prezent peste 1.600 de persoane care menstruează în fiecare lună la nivel național, oferindu-le produse menstruale gratuite și informații esențiale pentru a gestiona menstruatia cu demnitate și siguranță. Dincolo de sprijinul direct, suntem activ implicate în advocacy pentru schimbări legislative, lucrând la 2 proiecte de lege, unul pentru reducerea TVA-ului pe produsele menstruale, pentru a le face mai accesibile și mai abordabile, și al doilea pentru a asigura acces gratuit la produse de igienă menstruală în școli."
       contact:
         text: "Contactează-ne"
-        email: "oana@ielesanziene.org"
+        email: "alo@pestop.org"
       website:
-        text: "ielesanziene.org"
-        link: "https://ielesanziene.org/"
+        text: "pestop.org"
+        link: "https://pestop.org/"
       socials:
-        instagram: "https://www.instagram.com/ielesanziene"
+        facebook: "https://www.facebook.com/pestop.org" 
     - title: "🇫🇷 France - Règles Élémentaires"
       contact:
         text: "Contactează-ne"
