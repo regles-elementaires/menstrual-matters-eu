@@ -79,7 +79,7 @@ about:
   title: "About us"
   first_asso:
     title: "🇫🇷 France - Règles Élémentaires"
-    content: "#MenstrualMattersEU is an initiative coordinated by Règles Élémentaires. Règles Élémentaires is originally a French non-profit organisation dedicated to fighting period poverty and breaking the taboo around menstruation. Since 2016, the organisation has brought periods into the public spotlight by all society, from citizens to policymakers and  grassroots associations to ensure that periods are never an obstacle again. In recent years, Règles Élémentaires has expanded its work at the European level, notably through the Menstrual Education Network, a menstrual education initiative supported by the Erasmus+ programme."
+    content: "#MenstrualMattersEU is an initiative coordinated by Règles Élémentaires. Règles Élémentaires is originally a French non-profit organisation dedicated to fighting period poverty and breaking the taboo around menstruation. Since 2015, the organisation has brought periods into the public spotlight by all society, from citizens to policymakers and  grassroots associations to ensure that periods are never an obstacle again. In recent years, Règles Élémentaires has expanded its work at the European level, notably through the Menstrual Education Network, a menstrual education initiative supported by the Erasmus+ programme."
     contact:
       text: "Contact us"
       email: "justine@regleselementaires.com"
@@ -288,17 +288,4 @@ about:
       website:
         text: "www.menstruacnachudoba.sk"
         link: "https://www.menstruacnachudoba.sk/"
-    - title: "🇫🇷 France - Bon Sang"
-      content: "Bon Sang! is an association created in 2020 in the French Alpine capital, Grenoble, to fight the taboo surrounding menstruation. We organize sewing workshops for reusable menstrual products, school activities, and other formats to inform and raise awareness about menstruation. We also create games to make it easier to talk about this topic."
-      contact:
-        text: "Contact us"
-        email: "bon.sang.asso@gmail.com"
-      socials:
-        facebook: "https://www.facebook.com/bon.sang.asso"
-        instagram: "https://www.instagram.com/bon.sang.asso/"
-    - title: "🇫🇷 France - La grande collecte"
-      content: "La Grande Collecte is an association aiming to fight against period poverty and the taboo surrounding menstruation in the Haute-Garonne region. We facilitate the installation of free and self-service menstrual product dispensers in public spaces. At the same time, we offer awareness sessions, information activities, and discussion spaces to break the taboo around periods and to destigmatize menstruating people."
-      contact:
-        text: "Contact us"
-        email: "lagrandecollecte31@gmail.com"
 ---

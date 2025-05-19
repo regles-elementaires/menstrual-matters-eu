@@ -255,15 +255,4 @@ about:
       website:
         text: "www.menstruacnachudoba.sk"
         link: "https://www.menstruacnachudoba.sk/"
-    - title: "🇫🇷 France - Bon Sang"
-      contact:
-        text: "Kontakta oss"
-        email: "bon.sang.asso@gmail.com"
-      socials:
-        facebook: "https://www.facebook.com/bon.sang.asso"
-        instagram: "https://www.instagram.com/bon.sang.asso/"
-    - title: "🇫🇷 France - La grande collecte"
-      contact:
-        text: "Kontakta oss"
-        email: "lagrandecollecte31@gmail.com"
 ---

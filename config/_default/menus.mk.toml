@@ -1,0 +1,22 @@
+############# Macedonian navigation ##############
+
+# main menu
+[[main]]
+name = "Нашата кампања"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Нашето истражување"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "За нас"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Контактирајте нѐ"
+url = "mailto:justine@regleselementaires.com"
+weight = 4

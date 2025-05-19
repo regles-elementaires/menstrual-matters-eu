@@ -257,15 +257,4 @@ about:
         link: "https://www.solapomaha.cz/"
       socials:
         instagram: "https://www.instagram.com/solapomaha/"
-    - title: "🇫🇷 France - Bon Sang"
-      contact:
-        text: "Kontaktujte nás"
-        email: "bon.sang.asso@gmail.com"
-      socials:
-        facebook: "https://www.facebook.com/bon.sang.asso"
-        instagram: "https://www.instagram.com/bon.sang.asso/"
-    - title: "🇫🇷 France - La grande collecte"
-      contact:
-        text: "Kontaktujte nás"
-        email: "lagrandecollecte31@gmail.com"
 ---

@@ -65,10 +65,10 @@ study:
       text: "des européen·nes considèrent les règles comme un sujet tabou ou très tabou."
     - img: "/images/book.png"
       number: "54%"
-      text: "n’ont jamais entendu parler des pathologies liées aux règles."
+      text: "des européen·nes n’ont jamais entendu parler des pathologies liées aux règles."
     - img: "/images/message.png"
       number: "48%"
-      text: "des femmes n'ont jamais entendu parler de pathologies liées aux règles."
+      text: "des femmes en Europe n'ont jamais entendu parler de pathologies liées aux règles."
     - img: "/images/pain.png"
       number: "53%"
       text: "des femmes déclarent avoir déjà eu des règles si douloureuses qu’elles les empêchaient d’accomplir leurs activités quotidiennes."
@@ -82,7 +82,7 @@ about:
   title: "À propos"
   first_asso:
     title: "🇫🇷 France - Règles Élémentaires"
-    content: "Le #MenstrualMattersEU est une initiative coordonnée par Règles Élémentaires. Règles Élémentaires est originellement une association française de lutte contre la précarité menstruelle et le tabou des règles. Depuis 2016, l’association a mis les sujets liés aux règles sur le devant de la vie publique, en mobilisant toute la société, des citoyen•nes aux décideur•euses politiques en passant par des milliers d’acteur•ices de terrain pour faire que les règles ne soient plus jamais un obstacle.<br/>Ces dernières années, Règles Élémentaires a développé de nouveaux projets au niveau européen, notamment, le Menstrual Education Network, un réseau d’éducation menstruelle soutenu par le programme Erasmus +."
+    content: "Le #MenstrualMattersEU est une initiative coordonnée par Règles Élémentaires. Règles Élémentaires est originellement une association française de lutte contre la précarité menstruelle et le tabou des règles. Depuis 2015, l’association a mis les sujets liés aux règles sur le devant de la vie publique, en mobilisant toute la société, des citoyen•nes aux décideur•euses politiques en passant par des milliers d’acteur•ices de terrain pour faire que les règles ne soient plus jamais un obstacle.<br/>Ces dernières années, Règles Élémentaires a développé de nouveaux projets au niveau européen, notamment, le Menstrual Education Network, un réseau d’éducation menstruelle soutenu par le programme Erasmus +."
     contact:
       text: "Contactez-nous"
       email: "justine@regleselementaires.com"
@@ -95,19 +95,6 @@ about:
       linkedin: "https://www.linkedin.com/company/r%C3%A8gles-el%C3%A9mentaires/"
       tiktok: "https://www.tiktok.com/@regleselementaires"
   partners:
-    - title: "🇫🇷 France - Bon Sang"
-      content: "Bon Sang ! est une association créée en 2020 dans la capitale française des Alpes (Grenoble) pour lutter contre le tabou des règles. Nous organisons des ateliers couture de protections périodiques réutilisables, des animations scolaires et d'autres formats pour informer et sensibiliser autour des menstruations, et nous créons des jeux pour faciliter l'échange autour de ce sujet."
-      contact:
-        text: "Contactez-nous"
-        email: "bon.sang.asso@gmail.com"
-      socials:
-        facebook: "https://www.facebook.com/bon.sang.asso"
-        instagram: "https://www.instagram.com/bon.sang.asso/"
-    - title: "🇫🇷 France - La grande collecte"
-      content: "La grande collecte est une association qui à pour objectif de lutter contre la précarité menstruelle et le tabou des règles en Haute-Garonne. Nous facilitons l'installation de distributeurs de protections menstruelles gratuites et en libre-service dans les espaces publics. En parallèle, nous proposons des temps de sensibilisation, d'information et d'échange afin de détabouiser les règles et déstigmatiser les personnes menstruées."
-      contact:
-        text: "Contactez-nous"
-        email: "lagrandecollecte31@gmail.com"
     - title: "🇳🇱 Pays-Bas - Neighborhood Feminists"
       contact:
         text: "Contactez-nous"
