@@ -73,6 +73,7 @@ study:
       number: "42%"
       text: "of women have experienced menstrual poverty in the last 12 months."
   button: "View the study"
+  lang: "en"
 
 # About
 about:

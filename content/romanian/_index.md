@@ -73,6 +73,7 @@ study:
       number: "42%"
       text: "dintre femei au experimentat sărăcie menstruală în ultimele 12 luni."
   button: "Vezi studiul"
+  lang: "en"
 
 # About
 about:

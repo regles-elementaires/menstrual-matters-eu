@@ -139,7 +139,11 @@
           {{ end }}
         </div>
         <div class="md:col-8 mx-auto text-center mt-8">
-          <a class="font-secondary text-white bg-red px-4 py-2 text-xl rounded uppercase" href="" target="_blank">{{ .button }}</a>
+          {{ if eq .lang "fr" }}
+          <a class="font-secondary text-white bg-red px-4 py-2 text-xl rounded uppercase" href="https://doccollectes.blob.core.windows.net/statics/Etude_2025_Le_poids_des_regles_en_Europe.pdf" target="_blank">{{ .button }}</a>
+          {{ else if eq .lang "en" }}
+          <a class="font-secondary text-white bg-red px-4 py-2 text-xl rounded uppercase" href="https://doccollectes.blob.core.windows.net/statics/Survey_2025_The_weight_of_period_poverty_in_Europe.pdf" target="_blank">{{ .button }}</a>
+          {{ end }}
         </div>        
       </div>
     </section>

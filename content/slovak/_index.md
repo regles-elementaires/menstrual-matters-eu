@@ -73,6 +73,7 @@ study:
       number: "42%"
       text: "žien zažilo menštruačnú chudobu za posledných 12 mesiacov."
   button: "Pozrieť si štúdiu"
+  lang: "en"
 
 # About
 about:

@@ -73,6 +73,7 @@ study:
       number: "42%"
       text: "kobiet doświadczyło ubóstwa menstruacyjnego w ciągu ostatnich 12 miesięcy."
   button: "Zobacz wyniki badania"
+  lang: "en"
 
 # About
 about:

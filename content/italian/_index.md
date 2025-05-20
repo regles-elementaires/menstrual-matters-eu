@@ -73,6 +73,7 @@ study:
       number: "<span class='text-base font-normal'>Il</span> 42%"
       text: "delle donne ha vissuto una situazione di povertà mestruale negli ultimi 12 mesi."
   button: "Guarda lo studio"
+  lang: "en"
 
 # About
 about:

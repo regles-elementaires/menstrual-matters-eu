@@ -73,6 +73,7 @@ study:
       number: "<span class='text-base font-normal'>El</span> 42%"
       text: "de las mujeres ha vivido en situación de pobreza menstrual en los últimos 12 meses."
   button: "Ver el estudio"
+  lang: "en"
 
 # About
 about:

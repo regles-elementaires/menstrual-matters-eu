@@ -72,6 +72,7 @@ study:
       number: "42%"
       text: "av kvinnorna har upplevt mensfattigdom under de senaste 12 månaderna."
   button: "Läs rapporten"
+  lang: "en"
 
 # About
 about:

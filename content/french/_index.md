@@ -76,6 +76,7 @@ study:
       number: "42%"
       text: "des femmes ont été concernées par la précarité menstruelle au cours des 12 derniers mois."
   button: "Voir l'étude"
+  lang: "fr"
 
 # About
 about:

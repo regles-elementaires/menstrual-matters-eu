@@ -73,6 +73,7 @@ study:
       number: "42%"
       text: "der Frauen waren in den letzten 12 Monaten von Menstruationsarmut betroffen."
   button: "Studie ansehen"
+  lang: "en"
 
 # About
 about:
