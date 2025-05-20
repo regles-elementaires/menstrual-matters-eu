@@ -29,7 +29,7 @@ campaign:
   fourth_part: "<br/>Wat kun je doen als je altijd te horen hebt gekregen dat pijn “erbij hoort”? Als je geen verwijsbrief krijgt om onderzocht te worden op endometriose? Als je in het ziekenhuis belandt omdat je niet wist dat een tampon langer dan vier uur inhouden gevaarlijk is? Zolang scholen, werkplekken en overheden de realiteit van vrouwen, meisjes en andere menstruerende mensen blijven negeren – zolang er geen onderzoek komt, zolang mensen niet durven praten uit angst of schaamte – hoe kunnen we dan zeggen dat iedereen gelijke kansen heeft?<br/><br/>
   Van Brussel tot Napels, van Tallinn tot Dublin, in grote steden én op het platteland: miljoenen mensen ervaren menstruatie als een economische, medische en sociale last.<br/><br/>
   De Europese Unie zegt te staan voor gelijkheid, sociale rechten, gezondheidszorg en respect voor burgers. Daarom is het onacceptabel dat menstruele gezondheid nog altijd wordt genegeerd.<b> Het is 2025. Tijd om menstruatie eindelijk op de Europese agenda te zetten.</b><br/><br/>
-  Wij roepen Europarlementariërs, EU-commissarissen, vertegenwoordigers van de Raad van Europa en alle EU-instellingen op om in actie te komen. Het is tijd voor:"
+  Wij roepen Europarlementariërs, EU-commissarissen, vertegenwoordigers van de Raad van de Europese Unie en alle EU-instellingen op om in actie te komen. Het is tijd voor:"
   goals:
     - content: "Een brede aanpak van menstruele gezondheid, over alle sectoren heen, en opname ervan als vast onderdeel van volksgezondheids- en gendergelijkheidbeleid in de EU"
     - content: "In kaart brengen van menstruatiearmoede in heel Europa, zodat lidstaten gericht kunnen reageren."

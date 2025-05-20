@@ -29,7 +29,7 @@ campaign:
   fourth_part: "<br/>Vad gör man när man alltid fått höra att det är “normalt” att ha ont under mensen? När man nekas en remiss för att utreda adenomyos eller endometrios? När man har ett mensskydd längre än rekommenderat utan att känna till riskerna? Om miljöer där kvinnor, flickor och andra som menstruerar lever, arbetar och utbildas fortsätter att ignorera deras verklighet – om det inte forskas mer för att lindra deras smärta, om de inte ens vågar tala öppet på grund av skamkänslor – hur kan vi då tro att de har samma möjligheter?<br/><br/>
   Från Bryssel till Neapel, från Tallinn till Dublin, i städer och på landsbygden, upplever miljontals människor mensen som en ekonomisk, hälsomässig och social börda. Europeiska unionens värderingar bygger på jämlikhet, sociala rättigheter, tillgång till vård och respekt för medborgare.<br/><br/>
   Det är därför oacceptabelt att EU inte prioriterar menshälsa högre.<b> År 2025 är det dags att göra menshälsa till en europeisk fråga.</b><br/><br/>
-  Vi uppmanar EU-parlamentariker, kommissionärer, Europarådets representanter och alla EU-institutioner att agera genom att:"
+  Vi uppmanar EU-parlamentariker, kommissionärer, representanter för Europeiska unionens råd och alla EU-institutioner att agera genom att:"
   goals:
     - content: "Utveckla ett helhetsgrepp kring menshälsa, över flera sektorer, och integrera den som ett nyckelområde inom EU:s folkhälso- och jämställdhetspolitik"
     - content: "Kartlägga mensfattigdom i EU, för att kunna ge medlemsländerna verktyg att agera rätt"

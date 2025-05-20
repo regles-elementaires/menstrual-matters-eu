@@ -29,7 +29,7 @@ campaign:
   fourth_part: "<br/>Co możesz zrobić, gdy od zawsze słyszysz, że „tak ma być”? Gdy odmawia ci się badań, by potwierdzić adenomiozę lub endometriozę? Gdy trafiasz do szpitala, bo nie wiedziałaś, że tamponu nie wolno nosić dłużej niż 4 godziny? <b>Gdy szkoła, praca i miejsca życia nie uwzględniają twojej codzienności?</b> Gdy nikt nie prowadzi badań, by pomóc ci zmniejszyć ból, a ty nawet nie odważysz się o nim mówić — ze strachu lub wstydu?<b> Jak wtedy możemy mówić o równych szansach?</b><br/><br/>
   Od Brukseli po Neapol, od Tallina po Dublin — w miastach i na wsiach, miliony ludzi przeżywają miesiączkę jako ciężar ekonomiczny, zdrowotny i społeczny. A przecież wartości Unii Europejskiej to równość, prawa socjalne, dostęp do opieki zdrowotnej i szacunek dla obywateli.<br/><br/>
   Dlatego nieakceptowalne jest, by UE nadal ignorowała zdrowie menstruacyjne.<b> W 2025 roku czas uczynić miesiączkę sprawą europejską.</b><br/><br/>
-  Wzywamy posłów do Parlamentu Europejskiego, komisarzy, przedstawicieli Rady Europy i wszystkie instytucje UE do podjęcia działań poprzez:"
+  Wzywamy posłów do Parlamentu Europejskiego, komisarzy, przedstawicieli Rady Unii Europejskiej i wszystkie instytucje UE do podjęcia działań poprzez:"
   goals:
     - content: "Wypracowanie holistycznego podejścia do zdrowia menstruacyjnego, uwzględniającego różne sektory i traktowanie go jako kluczowego elementu polityki zdrowotnej i równości płci,"
     - content: "Mapowanie ubóstwa menstruacyjnego w UE, by umożliwić państwom członkowskim skuteczne działania,"

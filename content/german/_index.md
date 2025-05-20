@@ -29,7 +29,7 @@ campaign:
   Wenn die Orte, an denen Sie leben, arbeiten und lernen, ihre Bedürfnisse weiterhin ignorieren? Wenn keine Forschung betrieben wird, um Ihre Schmerzen zu verstehen. Wenn Sie sich aus Angst oder Scham nicht einmal trauen, ihre Meinung zu sagen? Wie können wir dann glauben, dass Menstruierende die gleichen Chancen haben?<br/><br/>
   Von Brüssel bis Neapel, von Tallinn bis Dublin, in den Städten sowie in den ländlichen Gebieten: überall in Europa erleben Millionen Menschen die Menstruation als wirtschaftliche, gesundheitliche und soziale Belastung.<br/><br/>
   Die Werte der Europäischen Union beruhen auf Gleichheit, sozialen Rechten, dem Zugang zur Gesundheitsversorgung und der Achtung der Bürger. Es ist daher nicht akzeptabel, dass die EU die Menstruationsgesundheit außer Acht lässt. <b>Im Jahr 2025 ist es an der Zeit, die Periode zu einem europäischen Thema zu machen.</b><br/><br/>
-  Wir fordern die Mitglieder des Europäischen Parlaments, die KommissarInnen, die VertreterInnen des Europarats und alle weiteren EU-Institutionen auf, Maßnahmen zu ergreifen:"
+  Wir fordern die Mitglieder des Europäischen Parlaments, die KommissarInnen, die VertreterInnen des Rates der Europäischen Union und alle weiteren EU-Institutionen auf, Maßnahmen zu ergreifen:"
   goals:
     - content: "Entwicklung eines umfassenden, sektorübergreifenden Konzepts für die Menstruationsgesundheit und ihre Integration als Schlüsselbereich der öffentlichen Gesundheit und der Gleichstellungspolitik in der EU"
     - content: "Erfassung der Menstruationsarmut in der EU, um den Mitgliedstaaten zu helfen, angemessen zu reagieren"

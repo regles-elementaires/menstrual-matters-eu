@@ -29,7 +29,7 @@ campaign:
   fourth_part: "<br/>Cosa puoi fare quando ti hanno sempre detto che è “normale” soffrire durante il ciclo? Quando ti viene negata una prescrizione medica per indagare su adenomiomi o endometriosi? Quando finisci in ospedale perché non sapevi che tenere un assorbente interno per più di quattro ore può essere pericoloso? Se i luoghi dove <b>donne, ragazze e tutte le persone che mestruano vivono</b>, studiano e lavorano continuano a ignorare la loro realtà—se nessuna ricerca si impegna ad alleviarne il dolore, se nemmeno osano parlare per paura o vergogna—<b>come possiamo pensare che abbiano le stesse opportunità?</b><br/><br/>
   Da Bruxelles a Napoli, da Tallinn a Dublino, e in tutta Europa, nelle città come nelle zone rurali, milioni di persone vivono le mestruazioni come un peso economico, sanitario e sociale. I valori dell’Unione Europea si fondano su uguaglianza, diritti sociali, accesso alla salute e rispetto per i cittadini.<br/><br/>
   È dunque inaccettabile che l’UE continui a trascurare la salute mestruale.<b> Nel 2025 è tempo di fare delle mestruazioni una questione europea.</b><br/><br/>
-  Chiediamo a eurodeputati, commissari, rappresentanti del Consiglio d’Europa e a tutte le istituzioni dell’UE di agire concretamente per:"
+  Chiediamo a eurodeputati, commissari, rappresentanti del Consiglio dell’Unione Europea e a tutte le istituzioni dell’UE di agire concretamente per:"
   goals:
     - content: "Sviluppare un approccio completo alla salute mestruale, trasversale a tutti i settori, integrandola come area chiave delle politiche sanitarie pubbliche e dell’uguaglianza di genere nell’UE"
     - content: "Mappare la povertà mestruale nell’UE, per aiutare gli Stati membri a rispondere in modo adeguato"

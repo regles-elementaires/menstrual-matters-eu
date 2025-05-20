@@ -29,7 +29,7 @@ campaign:
   fourth_part: "<br/>What can you do when you’ve always been told it’s “normal” to suffer during your period? When you’re denied a prescription to diagnose adenomyosis or endometriosis? When you end up in the hospital because you didn’t know wearing a tampon for more than four hours could be dangerous? If the places where <b>women, girls, and all menstruating people live, work, and learn</b> continue to ignore their realities—if no research is done to relieve their pain, if they don’t even dare speak up for fear or shame — <b>how can we believe they have the same opportunities?</b><br/><br/>
   From Brussels to Naples, from Tallinn to Dublin, and all across Europe, in cities and rural areas alike, millions experience menstruation as an economic, health and social burden.<br/><br/>
   The European Union’s values are founded on equality, social rights, access to healthcare, and respect for citizens. It is therefore unacceptable for the EU to overlook menstrual health.<b> In 2025, it is time to make periods a European issue.</b><br/><br/>
-  We are calling on MEPs, commissioners, Council of Europe representatives, and all EU institutions to take action by:"
+  We are calling on MEPs, commissioners, Council of the EU representatives, and all EU institutions to take action by:"
   goals:
     - content: "Developing a comprehensive approach to menstrual health, across sectors, and integrating it as a key area of public health and gender equality policy in the EU"
     - content: "Mapping period poverty across the EU, to help Member States respond appropriately"

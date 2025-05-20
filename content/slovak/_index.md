@@ -29,7 +29,7 @@ campaign:
   fourth_part: "<br/>Čo môžete urobiť, keď vám vždy tvrdili, že je „normálne“ trpieť počas menštruácie? Keď vám odmietnu predpísať diagnostiku adenomyózy alebo endometriózy? Keď skončíte v nemocnici, pretože ste nevedeli, že nosenie tampónu dlhšie ako štyri hodiny môže byť nebezpečné? Ak miesta, kde <b>ženy, dievčatá a všetky osoby, ktoré menštruujú, žijú, pracujú a učia sa</b>, naďalej ignorujú ich realitu — ak sa nerobí žiadny výskum na zmiernenie ich bolesti, a ak saboja vyjadriť kvôli strachu alebo hanbe — <b>ako môžeme veriť, že všetky tieto osoby majú rovnaké príležitosti?</b><br/><br/>
   Od Bruselu po Neapol, od Tallinnu po Dublin a po celej Európe, v mestách aj na vidieku, milióny ľudí prežívajú menštruáciu ako ekonomické, zdravotné a sociálne bremeno. Hodnoty Európskej únie sú založené na rovnosti, sociálnych právach, prístupe k zdravotnej starostlivosti a rešpekte k občanom.<br/><br/>
   Preto je neprijateľné, aby EÚ ignorovala menštruačné zdravie.<b> V roku 2025 je čas, aby menštruácia bola európskou témou.</b><br/><br/>
-  Apelujeme na členov Európskeho parlamentu, komisárov, zástupcov Rady Európy a všetky inštitúcie EÚ, aby konali týmto spôsobom:"
+  Apelujeme na členov Európskeho parlamentu, komisárov, zástupcov Rady Európskej únie a všetky inštitúcie EÚ, aby konali týmto spôsobom:"
   goals:
     - content: "Vypracovaním komplexného prístupu k menštruačnému zdraviu vo všetkých oblastiach a jeho integráciou ako kľúčovej oblasti verejného zdravia a politiky rodovej rovnosti v EÚ."
     - content: "Mapovaním menštruačnej chudoby naprieč EÚ, aby členské štáty mohli adekvátne reagovať."
