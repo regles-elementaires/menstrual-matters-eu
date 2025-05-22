@@ -92,6 +92,13 @@
           {{ end }}
         </div>
       </div>
+      {{ with .footnote }}
+      <div class="row items-center justify-between mt-8">
+        <div class="md:col-8 mx-auto">
+          <p class="italic text-sm">{{ . | markdownify }}</p>
+        </div>     
+      </div>
+      {{ end }}
       <div class="row items-center justify-between mt-8">
         <div class="md:col-8 mx-auto">
           <p class="text-center text-xl font-semibold">{{ .catchphrase }}</p>
