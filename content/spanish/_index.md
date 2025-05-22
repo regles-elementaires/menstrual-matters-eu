@@ -51,6 +51,7 @@ campaign:
   second_hashtag: "#endperiodpoverty"
   third_hashtag: "#periodfriendlyeurope"
   button_tribune: "Descargar el manifiesto"
+  link_tribune: "https://doccollectes.blob.core.windows.net/statics/ES_menstrualmatterseu.pdf"
   join_phrase: "¿Quieres unirte al movimiento?"
   button_contact: "Contáctanos"
 

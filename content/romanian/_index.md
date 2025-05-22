@@ -51,6 +51,7 @@ campaign:
   second_hashtag: "#endperiodpoverty"
   third_hashtag: "#periodfriendlyeurope"
   button_tribune: "Descarcă manifestul"
+  link_tribune: "https://doccollectes.blob.core.windows.net/statics/RO_menstrualmatterseu.pdf"
   join_phrase: "Vrei să te alături mișcării?"
   button_contact: "Contactează-ne"
 

@@ -49,6 +49,7 @@ campaign:
   second_hashtag: "#endperiodpoverty"
   third_hashtag: "#periodfriendlyeurope"
   button_tribune: "Ladda ner manifestet"
+  link_tribune: "https://doccollectes.blob.core.windows.net/statics/SV_menstrualmatterseu.pdf"
   join_phrase: "Vill du gå med i rörelsen?"
   button_contact: "Kontakta oss"
 
