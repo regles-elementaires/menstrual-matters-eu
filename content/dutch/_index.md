@@ -74,6 +74,7 @@ study:
       number: "42%"
       text: "van de vrouwen heeft in de afgelopen 12 maanden menstruatie-armoede ervaren."
   button: "Bekijk het onderzoek"
+  lang: "en"
 
 # About
 about:
