@@ -5,72 +5,79 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 
+################ Czech language ##################
+[cs]
+languageName = "Čeština"
+languageCode = "cs"
+contentDir = "content/czech"
+weight = 2
+
 ################ German language ##################
 [de]
 languageName = "Deutsch"
 languageCode = "de"
 contentDir = "content/german"
-weight = 2
+weight = 3
 
 ################ Spanish language ##################
 [es]
 languageName = "Español"
 languageCode = "es-es"
 contentDir = "content/spanish"
-weight = 3
+weight = 4
 
 ################ French language ##################
 [fr]
 languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 4
+weight = 5
 
 ################ Italian language ##################
 [it]
 languageName = "Italiano"
 languageCode = "it"
 contentDir = "content/italian"
-weight = 5
+weight = 6
 
 ################ Macedonian language ##################
 [mk]
 languageName = "македонски"
 languageCode = "mk"
 contentDir = "content/macedonian"
-weight = 6
+weight = 7
 
 ################ Dutch language ##################
 [nl]
 languageName = "Nederlands"
 languageCode = "nl"
 contentDir = "content/dutch"
-weight = 7
+weight = 8
 
 ################ Polish language ##################
 [pl]
 languageName = "Polski"
 languageCode = "pl"
 contentDir = "content/polish"
-weight = 8
+weight = 9
 
 ################ Romanian language ##################
 [ro]
 languageName = "Română"
 languageCode = "ro"
 contentDir = "content/romanian"
-weight = 9
+weight = 10
 
 ################ Slovak language ##################
 [sk]
 languageName = "Slovenčina"
 languageCode = "sk"
 contentDir = "content/slovak"
-weight = 10
+weight = 11
 
 ################ Swedish language ##################
 [sv]
 languageName = "Svenska"
 languageCode = "sv"
 contentDir = "content/swedish"
-weight = 11
+weight = 12

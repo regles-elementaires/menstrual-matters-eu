@@ -1,0 +1,22 @@
+############# Czech navigation ##############
+
+# main menu
+[[main]]
+name = "Naše kampaň"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Naše studie"
+url = "/#study"
+weight = 2
+
+[[main]]
+name = "O nás"
+url = "/#about"
+weight = 3
+
+[[main]]
+name = "Kontaktujte nás"
+url = "mailto:justine@regleselementaires.com"
+weight = 4

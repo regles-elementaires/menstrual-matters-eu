@@ -296,5 +296,7 @@ about:
         text: "www.solapomaha.cz"
         link: "https://www.solapomaha.cz/"
       socials:
+        facebook: "https://www.facebook.com/profile.php?id=61567723927414&locale=cs_CZ"
         instagram: "https://www.instagram.com/solapomaha/"
+        linkedin: "https://www.linkedin.com/company/sola-pom%C3%A1h%C3%A1/"
 ---
