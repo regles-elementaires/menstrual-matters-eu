@@ -77,6 +77,11 @@ study:
   button: "Погледнете го истражувањето"
   lang: "en"
 
+# Video
+video:
+  title: Нашето видео за кампања
+  lang: "en"
+
 # About
 about:
   title: "За нас"

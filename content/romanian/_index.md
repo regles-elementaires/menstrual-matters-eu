@@ -77,6 +77,11 @@ study:
   button: "Vezi studiul"
   lang: "en"
 
+# Video
+video:
+  title: Videoclipul campaniei noastre
+  lang: "en"
+
 # About
 about:
   title: "Despre noi"

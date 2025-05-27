@@ -76,6 +76,11 @@ study:
   button: "Bekijk het onderzoek"
   lang: "en"
 
+# Video
+video:
+  title: Onze campagnevideo
+  lang: "en"
+
 # About
 about:
   title: "Over ons"

@@ -76,6 +76,11 @@ study:
   button: "Studie ansehen"
   lang: "en"
 
+# Video
+video:
+  title: Unser Kampagnenvideo
+  lang: "en"
+
 # About
 about:
   title: "Über uns"

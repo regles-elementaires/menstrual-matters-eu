@@ -153,24 +153,25 @@
           {{ end }}
         </div>        
       </div>
-    </section>
-
-    <!-- YouTube Video -->
-    <section class="container mt-12">
-    <div class="m-4 md:m-0 md:px-20">
-      <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden">
-        {{ if eq .lang "fr" }}
-        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/eJ-w62i9_cQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" title="YouTube video"></iframe>
-        {{ else if eq .lang "en" }}
-        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Udz_MR1_tZ0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" title="YouTube video"></iframe>
-        {{ end }}
-      </div>
-    </div>    
-  </section> 
+    </section> 
   {{ end }}
   <!-- /Study -->
 
-  
+  {{ with .Params.video }}
+  <!-- YouTube Video -->
+    <section id="video" class="container mt-12">
+      <div class="m-4 md:m-0 md:px-20">
+        <h2 class="text-center font-primary font-extrabold mb-12">{{ .title }}</h2>
+        <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden">
+          {{ if eq .lang "fr" }}
+          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/eJ-w62i9_cQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" title="YouTube video"></iframe>
+          {{ else if eq .lang "en" }}
+          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Udz_MR1_tZ0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" title="YouTube video"></iframe>
+          {{ end }}
+        </div>
+      </div>    
+    </section>
+  {{ end }}  
 
   <!-- About -->
   {{ with .Params.about }}

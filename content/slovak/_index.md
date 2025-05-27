@@ -76,6 +76,11 @@ study:
   button: "Pozrieť si štúdiu"
   lang: "en"
 
+# Video
+video:
+  title: Video z našej kampane
+  lang: "en"
+
 # About
 about:
   title: "O nás"

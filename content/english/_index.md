@@ -77,6 +77,11 @@ study:
   button: "View the study"
   lang: "en"
 
+# Video
+video:
+  title: Our campaign video
+  lang: "en"
+
 # About
 about:
   title: "About us"
@@ -283,6 +288,7 @@ about:
         text: "www.menstruacnachudoba.sk"
         link: "https://www.menstruacnachudoba.sk/"
     - title: "🇨🇿 Czech Republic - Sola Pomáhá"
+      content: "Sola Pomáhá is an organization which focuses on tackling period poverty since 2021. We distribute period products to wherever they are a luxury. Every year we provide hundreds of thousands of period products to social services and similar places. Our work revolves around three main pillars: Material support for people in social exclusion and poverty. Advocacy to push for policies which don’t ignore periods and make sure schools and other public buildings provide period products. Education to normalize menstruation and break down the stigma around it."
       contact:
         text: "Contact us"
         email: "solapomaha@gmail.com"

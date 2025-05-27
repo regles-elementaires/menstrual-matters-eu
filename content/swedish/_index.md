@@ -75,6 +75,11 @@ study:
   button: "Läs rapporten"
   lang: "en"
 
+# Video
+video:
+  title: Vår kampanjvideo
+  lang: "en"
+
 # About
 about:
   title: "Om oss"

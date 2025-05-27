@@ -77,6 +77,11 @@ study:
   button: "Ver el estudio"
   lang: "en"
 
+# Video
+video:
+  title: Nuestro vídeo de campaña
+  lang: "en"
+
 # About
 about:
   title: "Sobre nosotras"

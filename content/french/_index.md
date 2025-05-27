@@ -80,6 +80,11 @@ study:
   button: "Voir l'étude"
   lang: "fr"
 
+# Video
+video:
+  title: Notre vidéo de campagne
+  lang: "fr"
+
 # About
 about:
   title: "À propos"

@@ -77,6 +77,11 @@ study:
   button: "Zobacz wyniki badania"
   lang: "en"
 
+# Video
+video:
+  title: Nasz film z kampanii
+  lang: "en"
+
 # About
 about:
   title: "O nas"
